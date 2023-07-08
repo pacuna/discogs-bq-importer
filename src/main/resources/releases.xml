@@ -1,0 +1,3021 @@
+<releases>
+    <release id="1" status="Accepted">
+        <images>
+            <image type="primary" uri="" uri150="" width="600" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="600"/>
+        </images>
+        <artists>
+            <artist>
+                <id>1</id>
+                <name>The Persuader</name>
+                <anv></anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <title>Stockholm</title>
+        <labels>
+            <label name="Svek" catno="SK032" id="5"/>
+        </labels>
+        <extraartists>
+            <artist>
+                <id>507025</id>
+                <name>George Cutmaster General</name>
+                <anv>G Phrupmastergeneral</anv>
+                <join></join>
+                <role>Lacquer Cut By</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>239</id>
+                <name>Jesper Dahlbäck</name>
+                <anv></anv>
+                <join></join>
+                <role>Written-By [All Tracks By]</role>
+                <tracks></tracks>
+            </artist>
+        </extraartists>
+        <formats>
+            <format name="Vinyl" qty="2" text="">
+                <descriptions>
+                    <description>12"</description>
+                    <description>33 ⅓ RPM</description>
+                </descriptions>
+            </format>
+        </formats>
+        <genres>
+            <genre>Electronic</genre>
+        </genres>
+        <styles>
+            <style>Deep House</style>
+        </styles>
+        <country>Sweden</country>
+        <released>1999-03-00</released>
+        <notes>The song titles are the names of six out of 82 Stockholm districts.
+
+            Title on labels: - Stockholm -
+
+            [Labels:]
+            Recorded at the Globe studio, Stockholm
+
+            Fax: +46 8 679 64 53</notes>
+        <data_quality>Needs Vote</data_quality>
+        <master_id is_main_release="true">1660109</master_id>
+        <tracklist>
+            <track>
+                <position>A</position>
+                <title>Östermalm</title>
+                <duration>4:45</duration>
+            </track>
+            <track>
+                <position>B1</position>
+                <title>Vasastaden</title>
+                <duration>6:11</duration>
+            </track>
+            <track>
+                <position>B2</position>
+                <title>Kungsholmen</title>
+                <duration>2:49</duration>
+            </track>
+            <track>
+                <position>C1</position>
+                <title>Södermalm</title>
+                <duration>5:38</duration>
+            </track>
+            <track>
+                <position>C2</position>
+                <title>Norrmalm</title>
+                <duration>4:52</duration>
+            </track>
+            <track>
+                <position>D</position>
+                <title>Gamla Stan</title>
+                <duration>5:16</duration>
+            </track>
+        </tracklist>
+        <identifiers>
+            <identifier type="Matrix / Runout" description="A-side runout" value="MPO SK 032 A1 G PHRUPMASTERGENERAL T2T LONDON"/>
+            <identifier type="Matrix / Runout" description="B-side runout" value="MPO SK 032 B1"/>
+            <identifier type="Matrix / Runout" description="C-side runout" value="MPO SK 032 C1"/>
+            <identifier type="Matrix / Runout" description="D-side runout" value="MPO SK 032 D1"/>
+        </identifiers>
+        <videos>
+            <video src="https://www.youtube.com/watch?v=MpmbntGDyNE" duration="295" embed="true">
+                <title>The Persuader - Östermalm</title>
+                <description>https://www.discogs.com/The-Persuader-Stockholm/release/1&#13;
+                    &#13;
+                    The Persuader - Östermalm
+                    &#13;
+                    &#13;- video upload powered by https://www.TunesToTube.com</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=QFeFn44B3Jk" duration="0" embed="true">
+                <title>The Persuader – Stockholm</title>
+                <description>Label: Svek
+                    Release Date:  Mar 1999
+
+                    Into great new and classic techno &amp; ambient as well?
+                    https://www.youtube.com/channel/UC4KGaumASCwGC8SB-k_DbCw/videos
+
+                    ARE YOU THE COPYRIGHT OWNER?
+                    First off, thank you for the music! I am a music enthusiast, vinyl coll</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=Cawyll0pOI4" duration="375" embed="true">
+                <title>The Persuader - Vasastaden</title>
+                <description>https://www.discogs.com/The-Persuader-Stockholm/release/1
+
+                    The Persuader - Vasastaden</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=XExCZfMCXdo" duration="175" embed="true">
+                <title>The Persuader - Kungsholmen</title>
+                <description>https://www.discogs.com/The-Persuader-Stockholm/release/1
+
+                    The Persuader - Kungsholmen</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=WDZqiENap_U" duration="340" embed="true">
+                <title>The Persuader - Södermalm</title>
+                <description>https://www.discogs.com/The-Persuader-Stockholm/release/1
+
+                    The Persuader - Södermalm</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=EBBHR3EMN50" duration="300" embed="true">
+                <title>The Persuader - Norrmalm</title>
+                <description>https://www.discogs.com/The-Persuader-Stockholm/release/1
+
+                    The Persuader - Norrmalm</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=afMHNll9EVM" duration="325" embed="true">
+                <title>The Persuader - Gamla Stan</title>
+                <description>https://www.discogs.com/The-Persuader-Stockholm/release/1
+
+                    The Persuader - Gamla Stan</description>
+            </video>
+        </videos>
+        <companies>
+            <company>
+                <id>271046</id>
+                <name>The Globe Studios</name>
+                <catno></catno>
+                <entity_type>23</entity_type>
+                <entity_type_name>Recorded At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/271046</resource_url>
+            </company>
+            <company>
+                <id>56025</id>
+                <name>MPO</name>
+                <catno></catno>
+                <entity_type>17</entity_type>
+                <entity_type_name>Pressed By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/56025</resource_url>
+            </company>
+            <company>
+                <id>102395</id>
+                <name>Tape To Tape</name>
+                <catno></catno>
+                <entity_type>30</entity_type>
+                <entity_type_name>Lacquer Cut At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/102395</resource_url>
+            </company>
+        </companies>
+    </release>
+    <release id="2" status="Accepted">
+        <images>
+            <image type="primary" uri="" uri150="" width="400" height="394"/>
+            <image type="secondary" uri="" uri150="" width="600" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="600"/>
+        </images>
+        <artists>
+            <artist>
+                <id>2</id>
+                <name>Mr. James Barth &amp; A.D.</name>
+                <anv></anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <title>Knockin' Boots (Vol 2 Of 2)</title>
+        <labels>
+            <label name="Svek" catno="SK 026" id="5"/>
+            <label name="Svek" catno="SK026" id="5"/>
+        </labels>
+        <extraartists>
+            <artist>
+                <id>26</id>
+                <name>Alexi Delano</name>
+                <anv></anv>
+                <join></join>
+                <role>Producer, Recorded By</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>27</id>
+                <name>Cari Lekebusch</name>
+                <anv></anv>
+                <join></join>
+                <role>Producer, Recorded By</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>26</id>
+                <name>Alexi Delano</name>
+                <anv>A. Delano</anv>
+                <join></join>
+                <role>Written-By</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>27</id>
+                <name>Cari Lekebusch</name>
+                <anv>C. Lekebusch</anv>
+                <join></join>
+                <role>Written-By</role>
+                <tracks></tracks>
+            </artist>
+        </extraartists>
+        <formats>
+            <format name="Vinyl" qty="1" text="">
+                <descriptions>
+                    <description>12"</description>
+                    <description>33 ⅓ RPM</description>
+                </descriptions>
+            </format>
+        </formats>
+        <genres>
+            <genre>Electronic</genre>
+        </genres>
+        <styles>
+            <style>Broken Beat</style>
+            <style>Techno</style>
+            <style>Tech House</style>
+        </styles>
+        <country>Sweden</country>
+        <released>1998-06-00</released>
+        <notes>All joints recorded in NYC (Dec.97).</notes>
+        <data_quality>Correct</data_quality>
+        <master_id is_main_release="true">713738</master_id>
+        <tracklist>
+            <track>
+                <position>A1</position>
+                <title>A Sea Apart</title>
+                <duration>5:08</duration>
+            </track>
+            <track>
+                <position>A2</position>
+                <title>Dutchmaster</title>
+                <duration>4:21</duration>
+            </track>
+            <track>
+                <position>B1</position>
+                <title>Inner City Lullaby</title>
+                <duration>4:22</duration>
+            </track>
+            <track>
+                <position>B2</position>
+                <title>Yeah Kid!</title>
+                <duration>4:46</duration>
+            </track>
+        </tracklist>
+        <identifiers>
+            <identifier type="Matrix / Runout" description="Side A runout etching" value="MPO SK026-A -J.T.S.-"/>
+            <identifier type="Matrix / Runout" description="Side B runout etching" value="MPO SK026-B -J.T.S.-"/>
+        </identifiers>
+        <videos>
+            <video src="https://www.youtube.com/watch?v=MIgQNVhYILA" duration="310" embed="true">
+                <title>Mr. James Barth &amp; A.D. - A Sea Apart</title>
+                <description>Follow Mr. James Barth: https://www.facebook.com/CariLekebuschOfficial&#13;
+                    Buy Record: http://www.discogs.com/Mr-James-Barth-AD-Knockin-Boots-Vol-2-Of-2/release/2&#13;
+                    More Music: https://www.facebook.com/DoFunkk&#13;
+                    &#13;
+                    Copyright Notice:&#13;
+                    I do not own the rights of </description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=LgLchSRehhc" duration="265" embed="true">
+                <title>Mr. James Barth &amp; A.D. - Dutchmaster</title>
+                <description>Follow Mr. James Barth: https://www.facebook.com/CariLekebuschOfficial&#13;
+                    Buy Record: http://www.discogs.com/Mr-James-Barth-AD-Knockin-Boots-Vol-2-Of-2/release/2&#13;
+                    More Music: https://www.facebook.com/DoFunkk&#13;
+                    &#13;
+                    Copyright Notice:&#13;
+                    I do not own the rights of </description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=iaqHaULlqqg" duration="260" embed="true">
+                <title>Mr. James Barth &amp; A.D. - Inner City Lullaby</title>
+                <description>Follow Mr. James Barth: https://www.facebook.com/CariLekebuschOfficial
+                    Buy Record: http://www.discogs.com/Mr-James-Barth-AD-Knockin-Boots-Vol-2-Of-2/release/2
+                    More Music: https://www.facebook.com/DoFunkk
+
+                    Copyright Notice:
+                    I do not own the rights of this </description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=x_Os7b-iWKs" duration="290" embed="true">
+                <title>Mr. James Barth &amp; A.D. - Yeah Kid!</title>
+                <description>Follow Mr. James Barth: https://www.facebook.com/CariLekebuschOfficial&#13;
+                    Buy Record: http://www.discogs.com/Mr-James-Barth-AD-Knockin-Boots-Vol-2-Of-2/release/2&#13;
+                    More Music: https://www.facebook.com/DoFunkk&#13;
+                    &#13;
+                    Copyright Notice:&#13;
+                    I do not own the rights of </description>
+            </video>
+        </videos>
+        <companies>
+            <company>
+                <id>266169</id>
+                <name>JTS Studios</name>
+                <catno></catno>
+                <entity_type>30</entity_type>
+                <entity_type_name>Lacquer Cut At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/266169</resource_url>
+            </company>
+            <company>
+                <id>56025</id>
+                <name>MPO</name>
+                <catno></catno>
+                <entity_type>17</entity_type>
+                <entity_type_name>Pressed By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/56025</resource_url>
+            </company>
+        </companies>
+    </release>
+    <release id="3" status="Accepted">
+        <images>
+            <image type="primary" uri="" uri150="" width="600" height="595"/>
+            <image type="secondary" uri="" uri150="" width="600" height="472"/>
+            <image type="secondary" uri="" uri150="" width="599" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="470"/>
+        </images>
+        <artists>
+            <artist>
+                <id>3</id>
+                <name>Josh Wink</name>
+                <anv></anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <title>Profound Sounds Vol. 1</title>
+        <labels>
+            <label name="Ruffhouse Records" catno="CK 63628" id="6"/>
+        </labels>
+        <extraartists>
+            <artist>
+                <id>3</id>
+                <name>Josh Wink</name>
+                <anv></anv>
+                <join></join>
+                <role>DJ Mix</role>
+                <tracks></tracks>
+            </artist>
+        </extraartists>
+        <formats>
+            <format name="CD" qty="1" text="">
+                <descriptions>
+                    <description>Compilation</description>
+                    <description>Mixed</description>
+                </descriptions>
+            </format>
+        </formats>
+        <genres>
+            <genre>Electronic</genre>
+        </genres>
+        <styles>
+            <style>Techno</style>
+            <style>Tech House</style>
+        </styles>
+        <country>US</country>
+        <released>1999-07-13</released>
+        <notes>Track 1 title is given as "D2" (which is the side of record on the vinyl version of i220-010 release). This was also released on CD where this track is listed on 8th position. On both version no titles are given (only writing/producing credits). You can see both versions of i220-010 at the master release page [m27265].
+            Track 1 and 12 contains acapella of "Sixth Sense" by Josh Wink featuring Ursula Rucker.
+            Track 4 is credited as "J. Dahlbäck". Have been released later under "The Persuader".
+            Track 5 is wrongly titled as Vol. 1.
+            Track 6 is credited as "Gez Varley presents Tony Montana".
+            Track 8 has the first artist misspelled as "Merio's Dubwork".
+            Track 10 is credited as "Stacey Pullen presents Black Odyssey".
+            Track 12 is exclusive to this release.
+
+            Artist and track names are typed in all lower case.</notes>
+        <data_quality>Needs Vote</data_quality>
+        <master_id is_main_release="false">66526</master_id>
+        <tracklist>
+            <track>
+                <position>1</position>
+                <title>The Oldschoolstreet 8</title>
+                <duration>7:00</duration>
+                <artists>
+                    <artist>
+                        <id>5</id>
+                        <name>Heiko Laux</name>
+                        <anv></anv>
+                        <join>&amp;</join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                    <artist>
+                        <id>4</id>
+                        <name>Johannes Heil</name>
+                        <anv></anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+            </track>
+            <track>
+                <position>2</position>
+                <title>Anjua (Sneaky 3)</title>
+                <duration>5:28</duration>
+                <artists>
+                    <artist>
+                        <id>15525</id>
+                        <name>Karl Axel Bissler</name>
+                        <anv>K.A.B.</anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+            </track>
+            <track>
+                <position>3</position>
+                <title>When The Funk Hits The Fan (Mood II Swing When The Dub Hits The Fan)</title>
+                <duration>5:25</duration>
+                <artists>
+                    <artist>
+                        <id>7</id>
+                        <name>Sylk 130</name>
+                        <anv></anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+                <extraartists>
+                    <artist>
+                        <id>8</id>
+                        <name>Mood II Swing</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Remix</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>4</position>
+                <title>What's The Time, Mr. Templar</title>
+                <duration>4:27</duration>
+                <artists>
+                    <artist>
+                        <id>1</id>
+                        <name>The Persuader</name>
+                        <anv></anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+            </track>
+            <track>
+                <position>5</position>
+                <title>Vol. 2</title>
+                <duration>5:36</duration>
+                <artists>
+                    <artist>
+                        <id>267132</id>
+                        <name>Care Company (2)</name>
+                        <anv></anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+            </track>
+            <track>
+                <position>6</position>
+                <title>Political Prisoner</title>
+                <duration>3:37</duration>
+                <artists>
+                    <artist>
+                        <id>6981</id>
+                        <name>Gez Varley</name>
+                        <anv></anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+            </track>
+            <track>
+                <position>7</position>
+                <title>Pop Kulture</title>
+                <duration>5:03</duration>
+                <artists>
+                    <artist>
+                        <id>11</id>
+                        <name>DJ Dozia</name>
+                        <anv></anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+            </track>
+            <track>
+                <position>8</position>
+                <title>K-Mart Shopping (Hi-Fi Mix)</title>
+                <duration>5:42</duration>
+                <artists>
+                    <artist>
+                        <id>10702</id>
+                        <name>Nerio's Dubwork</name>
+                        <anv></anv>
+                        <join>Meets</join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                    <artist>
+                        <id>233190</id>
+                        <name>Kathy Lee</name>
+                        <anv></anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+                <extraartists>
+                    <artist>
+                        <id>23</id>
+                        <name>Alex Hi-Fi</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Remix</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>9</position>
+                <title>Lovelee Dae (Eight Miles High Mix)</title>
+                <duration>5:47</duration>
+                <artists>
+                    <artist>
+                        <id>13</id>
+                        <name>Blaze</name>
+                        <anv></anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+                <extraartists>
+                    <artist>
+                        <id>14</id>
+                        <name>Eight Miles High</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Remix</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>10</position>
+                <title>Sweat</title>
+                <duration>6:06</duration>
+                <artists>
+                    <artist>
+                        <id>67226</id>
+                        <name>Stacey Pullen</name>
+                        <anv></anv>
+                        <join>Presents</join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                    <artist>
+                        <id>7554</id>
+                        <name>Black Odyssey</name>
+                        <anv></anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+                <extraartists>
+                    <artist>
+                        <id>67226</id>
+                        <name>Stacey Pullen</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Presenter</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>11</position>
+                <title>Silver</title>
+                <duration>3:16</duration>
+                <artists>
+                    <artist>
+                        <id>3906</id>
+                        <name>Christian Smith &amp; John Selway</name>
+                        <anv></anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+            </track>
+            <track>
+                <position>12</position>
+                <title>Untitled</title>
+                <duration>2:46</duration>
+                <artists>
+                    <artist>
+                        <id>3</id>
+                        <name>Josh Wink</name>
+                        <anv></anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+            </track>
+            <track>
+                <position>13</position>
+                <title>Boom Box</title>
+                <duration>3:41</duration>
+                <artists>
+                    <artist>
+                        <id>19</id>
+                        <name>Sound Associates</name>
+                        <anv></anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+            </track>
+            <track>
+                <position>14</position>
+                <title>Track 2</title>
+                <duration>3:39</duration>
+                <artists>
+                    <artist>
+                        <id>20</id>
+                        <name>Percy X</name>
+                        <anv></anv>
+                        <join></join>
+                        <role></role>
+                        <tracks></tracks>
+                    </artist>
+                </artists>
+            </track>
+        </tracklist>
+        <identifiers>
+            <identifier type="Barcode" description="Text" value="0 7464-63628-2 2"/>
+        </identifiers>
+        <videos>
+            <video src="https://www.youtube.com/watch?v=kZNa_9Gky14" duration="4059" embed="true">
+                <title>Josh Wink ‎| Profound Sounds Vol. 1 | 1999</title>
+                <description>Josh Wink ‎– Profound Sounds Vol. 1
+                    Heiko Laux &amp; Johannes Heil Untitled 8
+                    –K.A.B. Anjua (Sneaky 3)
+                    –Sylk 130 When The Funk Hits The Fan (Mood II Swing When The Dub Hits The Fan)
+                    –The Persuader What's The Time, Mr. Templar
+                    –Care Company Vol. 2
+                    –Gez Varley</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=bqUfNGJEKlo" duration="4074" embed="true">
+                <title>Profound Sounds Vol. 1 - Josh Wink</title>
+                <description>mix 1999</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=cpQWEQjunF4" duration="421" embed="true">
+                <title>Profound Sounds Track 1....</title>
+                <description>How it SHOULD sound......</description>
+            </video>
+        </videos>
+        <companies>
+            <company>
+                <id>93330</id>
+                <name>Columbia Records</name>
+                <catno></catno>
+                <entity_type>10</entity_type>
+                <entity_type_name>Manufactured By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/93330</resource_url>
+            </company>
+            <company>
+                <id>93330</id>
+                <name>Columbia Records</name>
+                <catno></catno>
+                <entity_type>9</entity_type>
+                <entity_type_name>Distributed By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/93330</resource_url>
+            </company>
+            <company>
+                <id>358181</id>
+                <name>Ruffhouse Records LP</name>
+                <catno></catno>
+                <entity_type>14</entity_type>
+                <entity_type_name>Copyright (c)</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/358181</resource_url>
+            </company>
+            <company>
+                <id>358181</id>
+                <name>Ruffhouse Records LP</name>
+                <catno></catno>
+                <entity_type>13</entity_type>
+                <entity_type_name>Phonographic Copyright (p)</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/358181</resource_url>
+            </company>
+        </companies>
+    </release>
+    <release id="4" status="Accepted">
+        <images>
+            <image type="primary" uri="" uri150="" width="600" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="460"/>
+            <image type="secondary" uri="" uri150="" width="600" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="538"/>
+        </images>
+        <artists>
+            <artist>
+                <id>21</id>
+                <name>Faze Action</name>
+                <anv></anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <title>Moving Cities</title>
+        <labels>
+            <label name="F-111 Records" catno="9 47555-2" id="7"/>
+            <label name="Warner Bros. Records" catno="9 47555-2" id="1000"/>
+        </labels>
+        <extraartists>
+            <artist>
+                <id>1832523</id>
+                <name>Tom Hingston Studio</name>
+                <anv></anv>
+                <join></join>
+                <role>Design</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>246316</id>
+                <name>Raj Gupta</name>
+                <anv></anv>
+                <join></join>
+                <role>Edited By [Additional]</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>13481</id>
+                <name>Ben Mitchell</name>
+                <anv></anv>
+                <join></join>
+                <role>Engineer [Recording &amp; Mixing]</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>246316</id>
+                <name>Raj Gupta</name>
+                <anv></anv>
+                <join></join>
+                <role>Engineer [Recording &amp; Mixing]</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>414340</id>
+                <name>Chris Ludwinski</name>
+                <anv>Chris Ludd</anv>
+                <join></join>
+                <role>Mastered By</role>
+                <tracks>9, 10</tracks>
+            </artist>
+            <artist>
+                <id>364438</id>
+                <name>Martin Giles</name>
+                <anv></anv>
+                <join></join>
+                <role>Mastered By</role>
+                <tracks>1 to 8, 11, 12</tracks>
+            </artist>
+            <artist>
+                <id>388361</id>
+                <name>Mike Brown (3)</name>
+                <anv></anv>
+                <join></join>
+                <role>Mastered By</role>
+                <tracks>1 to 8, 11, 12</tracks>
+            </artist>
+            <artist>
+                <id>2310320</id>
+                <name>Richard Green (7)</name>
+                <anv></anv>
+                <join></join>
+                <role>Photography By</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>308472</id>
+                <name>Robin Lee</name>
+                <anv></anv>
+                <join></join>
+                <role>Written-By, Arranged By, Producer</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>133484</id>
+                <name>Simon Lee</name>
+                <anv></anv>
+                <join></join>
+                <role>Written-By, Arranged By, Producer</role>
+                <tracks></tracks>
+            </artist>
+        </extraartists>
+        <formats>
+            <format name="CD" qty="1" text="">
+                <descriptions>
+                    <description>Album</description>
+                </descriptions>
+            </format>
+        </formats>
+        <genres>
+            <genre>Electronic</genre>
+        </genres>
+        <styles>
+            <style>House</style>
+            <style>Deep House</style>
+        </styles>
+        <country>US</country>
+        <released>1999-11-02</released>
+        <notes>US release that is missing the track "A Day To Go" but contains the tracks "In The Trees" and "Turn The Point (U.S. Version)", both originally on [r18832].</notes>
+        <data_quality>Needs Vote</data_quality>
+        <master_id is_main_release="false">104980</master_id>
+        <tracklist>
+            <track>
+                <position>1</position>
+                <title>Moving Cities</title>
+                <duration>6:24</duration>
+            </track>
+            <track>
+                <position>2</position>
+                <title>To Love Is To Grow</title>
+                <duration>5:15</duration>
+                <extraartists>
+                    <artist>
+                        <id>246316</id>
+                        <name>Raj Gupta</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Written-By</role>
+                        <tracks></tracks>
+                    </artist>
+                    <artist>
+                        <id>56668</id>
+                        <name>Zeke Manyika</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Written-By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>3</position>
+                <title>Isis</title>
+                <duration>5:39</duration>
+            </track>
+            <track>
+                <position>4</position>
+                <title>Heartbeat</title>
+                <duration>5:45</duration>
+                <extraartists>
+                    <artist>
+                        <id>9559</id>
+                        <name>Vanessa Freeman</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Written-By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>5</position>
+                <title>Samba</title>
+                <duration>5:57</duration>
+            </track>
+            <track>
+                <position>6</position>
+                <title>Got To Find A Way</title>
+                <duration>5:46</duration>
+                <extraartists>
+                    <artist>
+                        <id>56668</id>
+                        <name>Zeke Manyika</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Written-By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>7</position>
+                <title>Kariba</title>
+                <duration>5:13</duration>
+                <extraartists>
+                    <artist>
+                        <id>56668</id>
+                        <name>Zeke Manyika</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Written-By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>8</position>
+                <title>Space Disco</title>
+                <duration>6:42</duration>
+            </track>
+            <track>
+                <position>9</position>
+                <title>In The Trees</title>
+                <duration>7:46</duration>
+            </track>
+            <track>
+                <position>10</position>
+                <title>Turn The Point (U.S. Version)</title>
+                <duration>8:08</duration>
+            </track>
+            <track>
+                <position>11</position>
+                <title>Mas</title>
+                <duration>5:56</duration>
+            </track>
+            <track>
+                <position>12</position>
+                <title>Horizons</title>
+                <duration>5:10</duration>
+            </track>
+        </tracklist>
+        <identifiers>
+            <identifier type="Barcode" value="0 9362-47555-2 4"/>
+            <identifier type="Matrix / Runout" description="Variant 1" value="[wea mfg. OLYPHANT logo] X9694 1 47555-2 RE-1 01 *M2 S1"/>
+            <identifier type="Mastering SID Code" description="Variant 1" value="ifpi L902"/>
+            <identifier type="Mould SID Code" description="Variant 1" value="IFPI 2V2E"/>
+            <identifier type="Matrix / Runout" description="Variant 2" value="[wea mfg. OLYPHANT logo] X9694 1 47555-2 RE-1 01 M1 S2"/>
+            <identifier type="Mastering SID Code" description="Variant 2" value="ifpi L902"/>
+            <identifier type="Mould SID Code" description="Variant 2" value="IFPI 2U4U"/>
+            <identifier type="Matrix / Runout" description="Variant 3" value="[wea mfg. OLYPHANT logo] X9694 1 47555-2 RE-1 01 M1 S1"/>
+            <identifier type="Mastering SID Code" description="Variant 3" value="ifpi L902"/>
+            <identifier type="Mould SID Code" description="Variant 3" value="IFPI 2U3O"/>
+            <identifier type="Other" description="Mould Area" value="WEA mfg./CA"/>
+        </identifiers>
+        <videos>
+            <video src="https://www.youtube.com/watch?v=PJ7uSAODEww" duration="340" embed="true">
+                <title>Isis</title>
+                <description>Provided to YouTube by Rhino/Warner Records
+
+                    Isis · Faze Action
+
+                    Moving Cities
+
+                    ℗ 2000 v2 Conversion P Credit
+
+                    Producer: Robin Lee
+                    Producer: Simon Lee
+                    Lyricist: R. Lee
+                    Lyricist: Robin Lee
+                    Composer: S. Lee
+                    Lyricist: Simon Lee
+
+                    Auto-generated by YouTube.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=qq52Y7SYgZQ" duration="308" embed="true">
+                <title>Horizons</title>
+                <description>Provided to YouTube by Rhino/Warner Records
+
+                    Horizons · Faze Action
+
+                    Moving Cities
+
+                    ℗ 2000 v2 Conversion P Credit
+
+                    Producer: Robin Lee
+                    Producer: Simon Lee
+                    Lyricist: Robin Lee
+                    Lyricist: Simon Lee
+
+                    Auto-generated by YouTube.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=o94Kfn2yclU" duration="332" embed="true">
+                <title>A Day to Go</title>
+                <description>Provided to YouTube by Ingrooves
+
+                    A Day to Go · Faze Action
+
+                    Moving Cities
+
+                    ℗ 1999 sublime recordings
+
+                    Released on: 1999-09-27
+
+                    Composer, Writer: Robin Lee
+                    Composer, Writer: Simon Lee
+
+                    Auto-generated by YouTube.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=uuMThiQGWrA" duration="358" embed="true">
+                <title>Mas</title>
+                <description>Provided to YouTube by Rhino/Warner Records
+
+                    Mas · Faze Action
+
+                    Moving Cities
+
+                    ℗ 2000 v2 Conversion P Credit
+
+                    Producer: Robin Lee
+                    Producer: Simon Lee
+                    Lyricist: Robin Lee
+                    Lyricist: Simon Lee
+
+                    Auto-generated by YouTube.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=Y9udMcXEWQs" duration="357" embed="true">
+                <title>Samba</title>
+                <description>Provided to YouTube by Ingrooves
+
+                    Samba · Faze Action
+
+                    Moving Cities
+
+                    ℗ 1999 sublime recordings
+
+                    Released on: 1999-09-27
+
+                    Composer, Writer: Robin Lee
+                    Composer, Writer: Simon Lee
+
+                    Auto-generated by YouTube.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=zG7tAi8exxE" duration="318" embed="true">
+                <title>To Love Is to Grow</title>
+                <description>Provided to YouTube by Rhino/Warner Records
+
+                    To Love Is to Grow · Faze Action
+
+                    Moving Cities
+
+                    ℗ 2000 v2 Conversion P Credit
+
+                    Producer: Robin Lee
+                    Producer: Simon Lee
+                    Lyricist: Raj Gupta
+                    Lyricist: Robin Lee
+                    Lyricist: Simon Lee
+                    Lyricist: Zeke Manyika
+
+                    Auto-g</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=5QH7D8lNAZE" duration="406" embed="true">
+                <title>Space Disco</title>
+                <description>Provided to YouTube by Rhino/Warner Records
+
+                    Space Disco · Faze Action
+
+                    Moving Cities
+
+                    ℗ 2000 v2 Conversion P Credit
+
+                    Producer: Robin Lee
+                    Producer: Simon Lee
+                    Lyricist: Robin Lee
+                    Lyricist: Simon Lee
+
+                    Auto-generated by YouTube.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=08ACQ-q9YAM" duration="315" embed="true">
+                <title>Kariba</title>
+                <description>Provided to YouTube by Rhino/Warner Records
+
+                    Kariba · Faze Action
+
+                    Moving Cities
+
+                    ℗ 2000 v2 Conversion P Credit
+
+                    Producer: Robin Lee
+                    Producer: Simon Lee
+                    Lyricist: Robin Lee
+                    Lyricist: Simon Lee
+                    Lyricist: Zeke Manyika
+
+                    Auto-generated by YouTube.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=qke2Lf7SMzI" duration="386" embed="true">
+                <title>Moving Cities</title>
+                <description>Provided to YouTube by Rhino/Warner Records
+
+                    Moving Cities · Faze Action
+
+                    Moving Cities
+
+                    ℗ 2000 v2 Conversion P Credit
+
+                    Producer: Robin Lee
+                    Producer: Simon Lee
+                    Composer, Lyricist: Robin Lee
+                    Composer, Lyricist: Simon Lee
+
+                    Auto-generated by YouTube.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=8pTnd2h4e4c" duration="348" embed="true">
+                <title>Got a Find a Way</title>
+                <description>Provided to YouTube by Rhino/Warner Records
+
+                    Got a Find a Way · Faze Action
+
+                    Moving Cities
+
+                    ℗ 2000 v2 Conversion P Credit
+
+                    Producer: Robin Lee
+                    Producer: Simon Lee
+                    Lyricist: Robin Lee
+                    Lyricist: Simon Lee
+
+                    Auto-generated by YouTube.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=ColJaYF7bH8" duration="345" embed="true">
+                <title>Heartbeat</title>
+                <description>Provided to YouTube by KudosRecords
+
+                    Heartbeat · Faze Action
+
+                    To the Sunset &amp; Beyond
+
+                    ℗ FAR
+
+                    Released on: 2015-07-24
+
+                    Main Artist: Faze Action
+                    Composer: V. Freeman
+                    Composer: R.Lee
+                    Composer: S
+                    Composer: Lee
+                    Music Publisher: Sublime
+
+                    Auto-generated by YouTu</description>
+            </video>
+        </videos>
+        <companies>
+            <company>
+                <id>264250</id>
+                <name>WEA Manufacturing</name>
+                <catno></catno>
+                <entity_type>10</entity_type>
+                <entity_type_name>Manufactured By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/264250</resource_url>
+            </company>
+            <company>
+                <id>7</id>
+                <name>F-111 Records</name>
+                <catno></catno>
+                <entity_type>13</entity_type>
+                <entity_type_name>Phonographic Copyright (p)</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/7</resource_url>
+            </company>
+            <company>
+                <id>7</id>
+                <name>F-111 Records</name>
+                <catno></catno>
+                <entity_type>14</entity_type>
+                <entity_type_name>Copyright (c)</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/7</resource_url>
+            </company>
+            <company>
+                <id>354230</id>
+                <name>WEA Mfg. Commerce</name>
+                <catno></catno>
+                <entity_type>17</entity_type>
+                <entity_type_name>Pressed By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/354230</resource_url>
+            </company>
+            <company>
+                <id>291934</id>
+                <name>WEA Mfg. Olyphant</name>
+                <catno>X9694</catno>
+                <entity_type>31</entity_type>
+                <entity_type_name>Glass Mastered At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/291934</resource_url>
+            </company>
+            <company>
+                <id>388223</id>
+                <name>Laj Studios</name>
+                <catno></catno>
+                <entity_type>23</entity_type>
+                <entity_type_name>Recorded At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/388223</resource_url>
+            </company>
+            <company>
+                <id>334077</id>
+                <name>Can Can Studio</name>
+                <catno></catno>
+                <entity_type>23</entity_type>
+                <entity_type_name>Recorded At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/334077</resource_url>
+            </company>
+            <company>
+                <id>388223</id>
+                <name>Laj Studios</name>
+                <catno></catno>
+                <entity_type>27</entity_type>
+                <entity_type_name>Mixed At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/388223</resource_url>
+            </company>
+            <company>
+                <id>264641</id>
+                <name>CTS Studios</name>
+                <catno></catno>
+                <entity_type>29</entity_type>
+                <entity_type_name>Mastered At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/264641</resource_url>
+            </company>
+            <company>
+                <id>217694</id>
+                <name>Abbey Road Studios</name>
+                <catno></catno>
+                <entity_type>29</entity_type>
+                <entity_type_name>Mastered At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/217694</resource_url>
+            </company>
+        </companies>
+    </release>
+    <release id="5" status="Accepted">
+        <images>
+            <image type="primary" uri="" uri150="" width="598" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="294"/>
+            <image type="secondary" uri="" uri150="" width="600" height="462"/>
+            <image type="secondary" uri="" uri150="" width="596" height="600"/>
+        </images>
+        <artists>
+            <artist>
+                <id>22</id>
+                <name>Datacide</name>
+                <anv></anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <title>Flowerhead</title>
+        <labels>
+            <label name="Rather Interesting" catno="RI 026" id="8"/>
+            <label name="Rather Interesting" catno="RI026" id="8"/>
+        </labels>
+        <extraartists>
+            <artist>
+                <id>539207</id>
+                <name>Linger Decoree</name>
+                <anv></anv>
+                <join></join>
+                <role>Cover, Design [Logo Designs]</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>25</id>
+                <name>Tetsu Inoue</name>
+                <anv></anv>
+                <join></join>
+                <role>Performer [Datacide Are]</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>519207</id>
+                <name>Uwe Schmidt</name>
+                <anv></anv>
+                <join></join>
+                <role>Performer [Datacide Are]</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>22</id>
+                <name>Datacide</name>
+                <anv></anv>
+                <join></join>
+                <role>Producer</role>
+                <tracks></tracks>
+            </artist>
+        </extraartists>
+        <formats>
+            <format name="CD" qty="1" text="">
+                <descriptions>
+                    <description>Album</description>
+                    <description>Limited Edition</description>
+                </descriptions>
+            </format>
+        </formats>
+        <genres>
+            <genre>Electronic</genre>
+        </genres>
+        <styles>
+            <style>Abstract</style>
+            <style>Ambient</style>
+            <style>Downtempo</style>
+        </styles>
+        <country>Germany</country>
+        <released>1995-01-15</released>
+        <notes>Rather Interesting presents: Datacide "Flowerhead"&#13;
+            &#13;
+            'Flowerhead' produced at SEL I/S/C.&#13;
+            Flowers selected with kind support from &#13;
+            Arielle and her collection of biological&#13;
+            kn [...] sychoptic' kiss.&#13;
+            &#13;
+            Many thanks to Ingrid, Conny, Peter Kuhlmann,&#13;
+            Mr. Kite and Billy Shears.&#13;
+            This is a stereo recording &#13;
+            a splendid time is guaranteed for all.&#13;
+            &#13;
+            Limitation: 1000&#13;
+            &#13;
+            Catalog numbers:&#13;
+            RI 026 (spine and insert)&#13;
+            RI026 (label)&#13;
+        </notes>
+        <data_quality>Correct</data_quality>
+        <master_id is_main_release="true">169944</master_id>
+        <tracklist>
+            <track>
+                <position>1</position>
+                <title>Flashback Signal</title>
+                <duration>15:54</duration>
+                <extraartists>
+                    <artist>
+                        <id>415403</id>
+                        <name>Ingrid Baier</name>
+                        <anv>Ingrid</anv>
+                        <join></join>
+                        <role>Voice</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>2</position>
+                <title>Flowerhead</title>
+                <duration>9:33</duration>
+            </track>
+            <track>
+                <position>3</position>
+                <title>Deep Chair</title>
+                <duration>14:05</duration>
+            </track>
+            <track>
+                <position>4</position>
+                <title>So Much Light</title>
+                <duration>12:02</duration>
+            </track>
+            <track>
+                <position>5</position>
+                <title>Sixties Out Of Tune</title>
+                <duration>13:05</duration>
+            </track>
+        </tracklist>
+        <identifiers>
+            <identifier type="Matrix / Runout" value="CD PLANT MFG RI 026 CDM01"/>
+        </identifiers>
+        <videos>
+            <video src="https://www.youtube.com/watch?v=F6XDimM4mJg" duration="3889" embed="true">
+                <title>Datacide - Flowerhead (Full Album)</title>
+                <description>Released via Rather Interesting in 1995.
+                    Great collaboration between the prolific German and Japanese pioneers Uwe Schmidt &amp;Tetsu Inoue.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=GlJqdwk0XIg" duration="950" embed="true">
+                <title>Datacide - Flashback Signal (Ambient 1995)</title>
+                <description>http://www.discogs.com/DATacide-Flowerhead/release/5
+                    &#13;
+                    &#13;-uploaded in HD at http://www.TunesToTube.com</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=pG3xsGuJ_AQ" duration="574" embed="true">
+                <title>DATacide - Flowerhead - Tetsu Inoue &amp; Atom Heart - Rather Interesting - Fax - Ambient</title>
+                <description>Second track from this great album. One of the more affordable Rather Interesting releases.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=7AToRz8QZwA" duration="850" embed="true">
+                <title>Datacide - Deep Chair (Ambient 1995)</title>
+                <description>http://www.discogs.com/Datacide-Flowerhead/release/5
+                    &#13;
+                    &#13;-uploaded in HD at http://www.TunesToTube.com</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=HDWt0kVZPnM" duration="723" embed="true">
+                <title>Datacide - So Much Light (Ambient 1995)</title>
+                <description>http://www.discogs.com/DATacide-Flowerhead/release/5
+                    &#13;
+                    &#13;-uploaded in HD at http://www.TunesToTube.com</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=JHNHU0I4Vy4" duration="785" embed="true">
+                <title>Datacide - Sixties Out Of Tune (Ambient 1995)</title>
+                <description>http://www.discogs.com/Datacide-Flowerhead/release/5
+                    &#13;
+                    &#13;-uploaded in HD at http://www.TunesToTube.com</description>
+            </video>
+        </videos>
+        <companies>
+            <company>
+                <id>403521</id>
+                <name>Del Haze Entertainment</name>
+                <catno></catno>
+                <entity_type>8</entity_type>
+                <entity_type_name>Marketed By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/403521</resource_url>
+            </company>
+            <company>
+                <id>265233</id>
+                <name>Sel i/s/c</name>
+                <catno></catno>
+                <entity_type>26</entity_type>
+                <entity_type_name>Produced At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/265233</resource_url>
+            </company>
+            <company>
+                <id>291931</id>
+                <name>CD Plant MFG</name>
+                <catno></catno>
+                <entity_type>17</entity_type>
+                <entity_type_name>Pressed By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/291931</resource_url>
+            </company>
+            <company>
+                <id>1531143</id>
+                <name>CDM (10)</name>
+                <catno></catno>
+                <entity_type>31</entity_type>
+                <entity_type_name>Glass Mastered At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/1531143</resource_url>
+            </company>
+        </companies>
+    </release>
+    <release id="6" status="Accepted">
+        <images>
+            <image type="primary" uri="" uri150="" width="400" height="394"/>
+            <image type="secondary" uri="" uri150="" width="600" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="600"/>
+        </images>
+        <artists>
+            <artist>
+                <id>2</id>
+                <name>Mr. James Barth &amp; A.D.</name>
+                <anv></anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <title>Knockin' Boots (Vol 1 Of 2)</title>
+        <labels>
+            <label name="Svek" catno="SK025" id="5"/>
+            <label name="Svek" catno="SK 025" id="5"/>
+        </labels>
+        <extraartists>
+            <artist>
+                <id>26</id>
+                <name>Alexi Delano</name>
+                <anv>A. Delano</anv>
+                <join></join>
+                <role>Recorded By, Written-By</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>27</id>
+                <name>Cari Lekebusch</name>
+                <anv>C. Lekebusch</anv>
+                <join></join>
+                <role>Recorded By, Written-By</role>
+                <tracks></tracks>
+            </artist>
+        </extraartists>
+        <formats>
+            <format name="Vinyl" qty="1" text="">
+                <descriptions>
+                    <description>12"</description>
+                    <description>33 ⅓ RPM</description>
+                </descriptions>
+            </format>
+        </formats>
+        <genres>
+            <genre>Electronic</genre>
+        </genres>
+        <styles>
+            <style>Techno</style>
+            <style>Tech House</style>
+        </styles>
+        <country>Sweden</country>
+        <released>1998-05-00</released>
+        <notes>Recorded in NYC, December 1997.
+
+            Print on center label:
+            Message from the Lords of SVEK: "Bronze, Silver &amp; Gold"
+            Print on back sleeve:
+            Mr. Barth and A.D. sez': "We've built a bridge to the place of birth".
+        </notes>
+        <data_quality>Complete and Correct</data_quality>
+        <master_id is_main_release="true">713737</master_id>
+        <tracklist>
+            <track>
+                <position>A1</position>
+                <title>It's All James</title>
+                <duration>5:29</duration>
+            </track>
+            <track>
+                <position>B1</position>
+                <title>Above The Skyline</title>
+                <duration>5:01</duration>
+            </track>
+            <track>
+                <position>B2</position>
+                <title>Suckin' Neck</title>
+                <duration>5:04</duration>
+            </track>
+        </tracklist>
+        <identifiers>
+            <identifier type="Matrix / Runout" description="Side A, etched" value="SK 025-A -J.T.S.- MPO"/>
+            <identifier type="Matrix / Runout" description="Side B, etched" value="SK 025-B -J.T.S.- MPO"/>
+        </identifiers>
+        <videos>
+            <video src="https://www.youtube.com/watch?v=Blgk9KCLkKk" duration="311" embed="true">
+                <title>Mr. James Barth &amp; A.D. - Above The Skyline</title>
+                <description>https://www.discogs.com/Various-The-Lords-Of-Svek-Vol-4/release/5955
+
+                    Mr. James Barth &amp; A.D. - Above The Skyline</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=1syV9KIoPvw" duration="341" embed="true">
+                <title>Mr. James Barth &amp; A.D. ‎- It's All James</title>
+                <description>https://www.discogs.com/Mr-James-Barth-AD-Knockin-Boots-Vol-1-Of-2/release/6&#13;
+                    &#13;
+                    Mr. James Barth &amp; A.D. ‎- It's All James</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=CzjsHBhRcpU" duration="316" embed="true">
+                <title>Mr. James Barth &amp; A.D. ‎- Suckin' Neck</title>
+                <description>https://www.discogs.com/Mr-James-Barth-AD-Knockin-Boots-Vol-1-Of-2/release/6&#13;
+                    &#13;
+                    Mr. James Barth &amp; A.D. ‎- Suckin' Neck</description>
+            </video>
+        </videos>
+        <companies>
+            <company>
+                <id>56025</id>
+                <name>MPO</name>
+                <catno></catno>
+                <entity_type>17</entity_type>
+                <entity_type_name>Pressed By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/56025</resource_url>
+            </company>
+            <company>
+                <id>266169</id>
+                <name>JTS Studios</name>
+                <catno></catno>
+                <entity_type>30</entity_type>
+                <entity_type_name>Lacquer Cut At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/266169</resource_url>
+            </company>
+        </companies>
+    </release>
+    <release id="7" status="Accepted">
+        <images>
+            <image type="primary" uri="" uri150="" width="600" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="600"/>
+            <image type="secondary" uri="" uri150="" width="438" height="440"/>
+        </images>
+        <artists>
+            <artist>
+                <id>28</id>
+                <name>Moonchildren</name>
+                <anv></anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <title>Moonchildren EP</title>
+        <labels>
+            <label name="Deep4Life" catno="D4L12002" id="9"/>
+        </labels>
+        <extraartists>
+            <artist>
+                <id>387624</id>
+                <name>Kevin Hodge</name>
+                <anv>Ki</anv>
+                <join></join>
+                <role>Lacquer Cut By</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>0</id>
+                <name>Koibito &amp; Boku</name>
+                <anv></anv>
+                <join></join>
+                <role>Other [Spirits Lifted By]</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>921599</id>
+                <name>Kory And The Gang</name>
+                <anv></anv>
+                <join></join>
+                <role>Vocals</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>57</id>
+                <name>Chris Gray</name>
+                <anv></anv>
+                <join></join>
+                <role>Written-By, Producer, Mixed By</role>
+                <tracks></tracks>
+            </artist>
+        </extraartists>
+        <formats>
+            <format name="Vinyl" qty="1" text="Clear">
+                <descriptions>
+                    <description>12"</description>
+                    <description>33 ⅓ RPM</description>
+                    <description>EP</description>
+                </descriptions>
+            </format>
+        </formats>
+        <genres>
+            <genre>Electronic</genre>
+        </genres>
+        <styles>
+            <style>Deep House</style>
+        </styles>
+        <country>US</country>
+        <released>2000-02-00</released>
+        <notes>Written, produced and mixed for Mind Massage Music (BMI).
+
+            ℗© 2000 Deep4Life Recordings
+
+            First press on clear vinyl with orange labels housed in a silver grey die cut sleeve. Second press was on black vinyl with black labels: [r2398328].</notes>
+        <data_quality>Needs Vote</data_quality>
+        <master_id is_main_release="true">267770</master_id>
+        <tracklist>
+            <track>
+                <position>A</position>
+                <title>Ran Away</title>
+                <duration>6:45</duration>
+            </track>
+            <track>
+                <position>AA1</position>
+                <title>Silent Crying</title>
+                <duration>6:28</duration>
+            </track>
+            <track>
+                <position>AA2</position>
+                <title>No Other</title>
+                <duration>5:18</duration>
+            </track>
+        </tracklist>
+        <identifiers>
+            <identifier type="Matrix / Runout" description="Side A, etched" value="D4L-12002-A Ki 3503.1 (2)"/>
+            <identifier type="Matrix / Runout" description="Side AA, etched" value="D4L-12002-AA KH 3503.2 (2)"/>
+            <identifier type="Rights Society" value="BMI"/>
+        </identifiers>
+        <videos>
+            <video src="https://www.youtube.com/watch?v=sjGRIvhoEtc" duration="389" embed="true">
+                <title>Moonchildren  - Silent Crying</title>
+                <description>Label: Deep4Life ‎– D4L12002
+                    Format: Vinyl, EP, 12
+                    Country: US
+                    Released: Feb 2000
+                    Genre: Electronic
+                    Style: Deep House</description>
+            </video>
+        </videos>
+        <companies>
+            <company>
+                <id>520880</id>
+                <name>Mind Massage Music</name>
+                <catno></catno>
+                <entity_type>37</entity_type>
+                <entity_type_name>Produced For</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/520880</resource_url>
+            </company>
+            <company>
+                <id>662061</id>
+                <name>Deep4Life Recordings</name>
+                <catno></catno>
+                <entity_type>13</entity_type>
+                <entity_type_name>Phonographic Copyright (p)</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/662061</resource_url>
+            </company>
+            <company>
+                <id>662061</id>
+                <name>Deep4Life Recordings</name>
+                <catno></catno>
+                <entity_type>14</entity_type>
+                <entity_type_name>Copyright (c)</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/662061</resource_url>
+            </company>
+            <company>
+                <id>66254</id>
+                <name>Record Technology Incorporated</name>
+                <catno>3503</catno>
+                <entity_type>17</entity_type>
+                <entity_type_name>Pressed By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/66254</resource_url>
+            </company>
+            <company>
+                <id>520880</id>
+                <name>Mind Massage Music</name>
+                <catno></catno>
+                <entity_type>21</entity_type>
+                <entity_type_name>Published By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/520880</resource_url>
+            </company>
+        </companies>
+    </release>
+    <release id="8" status="Accepted">
+        <images>
+            <image type="primary" uri="" uri150="" width="410" height="401"/>
+            <image type="secondary" uri="" uri150="" width="424" height="425"/>
+        </images>
+        <artists>
+            <artist>
+                <id>29</id>
+                <name>Sweet Abraham</name>
+                <anv></anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <title>Spreading Outward EP</title>
+        <labels>
+            <label name="Deep4Life" catno="D4L12004" id="9"/>
+        </labels>
+        <extraartists>
+            <artist>
+                <id>506563</id>
+                <name>Jeff Peacock</name>
+                <anv>Jeffrey Peacock</anv>
+                <join></join>
+                <role>Written-By, Producer, Arranged By</role>
+                <tracks></tracks>
+            </artist>
+        </extraartists>
+        <formats>
+            <format name="Vinyl" qty="1" text="">
+                <descriptions>
+                    <description>12"</description>
+                    <description>EP</description>
+                </descriptions>
+            </format>
+        </formats>
+        <genres>
+            <genre>Electronic</genre>
+        </genres>
+        <styles>
+            <style>Deep House</style>
+        </styles>
+        <country>US</country>
+        <released>2000</released>
+        <notes>Written, produced and arranged for 40 Days &amp; 40 Nights Music.&#13;
+            Sweet Abraham appears courtesy of Diaspora Recordings.&#13;
+            ℗© 2000 Deep4Life Recordings.
+        </notes>
+        <data_quality>Needs Vote</data_quality>
+        <master_id is_main_release="true">48282</master_id>
+        <tracklist>
+            <track>
+                <position>A</position>
+                <title>Diaspora</title>
+                <duration>7:15</duration>
+            </track>
+            <track>
+                <position>AA1</position>
+                <title>Wallflower</title>
+                <duration>7:25</duration>
+            </track>
+            <track>
+                <position>AA2</position>
+                <title>Days Since Past</title>
+                <duration>6:28</duration>
+            </track>
+        </tracklist>
+        <identifiers/>
+        <videos>
+            <video src="https://www.youtube.com/watch?v=Q_3oI_ouCTw" duration="395" embed="true">
+                <title>Sweet Abraham - Days Since Past</title>
+                <description>Track from Deep4Life</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=FD4EN2VTdPU" duration="0" embed="true">
+                <title>Sweet Abraham – Spreading Outward EP</title>
+                <description>Label: Deep4Life
+                    Release Date: 2000
+
+                    Into great new and classic techno &amp; ambient as well?
+                    https://www.youtube.com/channel/UC4KGaumASCwGC8SB-k_DbCw/videos
+
+                    ARE YOU THE COPYRIGHT OWNER?
+                    First off, thank you for the music! I am a music enthusiast, vinyl coll</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=z6f5bKbX0Fs" duration="440" embed="true">
+                <title>Sweet Abraham - Diaspora [Deep4Life, D4L12004 ]</title>
+                <description></description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=1XX3RTx5Bqk" duration="450" embed="true">
+                <title>Sweet Abraham - Wallflower</title>
+                <description></description>
+            </video>
+        </videos>
+        <companies>
+            <company>
+                <id>662061</id>
+                <name>Deep4Life Recordings</name>
+                <catno></catno>
+                <entity_type>13</entity_type>
+                <entity_type_name>Phonographic Copyright (p)</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/662061</resource_url>
+            </company>
+            <company>
+                <id>662061</id>
+                <name>Deep4Life Recordings</name>
+                <catno></catno>
+                <entity_type>14</entity_type>
+                <entity_type_name>Copyright (c)</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/662061</resource_url>
+            </company>
+            <company>
+                <id>1019382</id>
+                <name>40 Days/40 Nights Music</name>
+                <catno></catno>
+                <entity_type>37</entity_type>
+                <entity_type_name>Produced For</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/1019382</resource_url>
+            </company>
+        </companies>
+    </release>
+    <release id="9" status="Accepted">
+        <images>
+            <image type="primary" uri="" uri150="" width="592" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="599"/>
+            <image type="secondary" uri="" uri150="" width="600" height="602"/>
+            <image type="secondary" uri="" uri150="" width="600" height="599"/>
+        </images>
+        <artists>
+            <artist>
+                <id>33</id>
+                <name>Blue Six</name>
+                <anv></anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <title>Pure</title>
+        <labels>
+            <label name="Naked Music Recordings" catno="NM008" id="10"/>
+        </labels>
+        <extraartists>
+            <artist>
+                <id>74994</id>
+                <name>Bruno Ybarra</name>
+                <anv></anv>
+                <join></join>
+                <role>Executive-Producer</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>209463</id>
+                <name>David Boonshoft</name>
+                <anv>Dave Boonshoft</anv>
+                <join></join>
+                <role>Executive-Producer</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>99026</id>
+                <name>Monique Bingham</name>
+                <anv>Monique</anv>
+                <join></join>
+                <role>Featuring, Vocals</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>32</id>
+                <name>Jay Denes</name>
+                <anv>J. Denes</anv>
+                <join></join>
+                <role>Producer, Arranged By</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>32</id>
+                <name>Jay Denes</name>
+                <anv>J. Denes</anv>
+                <join></join>
+                <role>Written-By</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>99026</id>
+                <name>Monique Bingham</name>
+                <anv>M. Bingham</anv>
+                <join></join>
+                <role>Written-By</role>
+                <tracks></tracks>
+            </artist>
+        </extraartists>
+        <formats>
+            <format name="Vinyl" qty="1" text="">
+                <descriptions>
+                    <description>12"</description>
+                    <description>33 ⅓ RPM</description>
+                </descriptions>
+            </format>
+        </formats>
+        <genres>
+            <genre>Electronic</genre>
+        </genres>
+        <styles>
+            <style>House</style>
+            <style>Deep House</style>
+        </styles>
+        <country>US</country>
+        <released>2000</released>
+        <notes>Track A1: engineered at Moulton Street/SF.
+            Track A2: original version written for Naked Music Recordings.
+
+            C &amp; P Fur &amp; Femur Music (BMI)/M. Bingham (ASCAP) 2000.
+            Naked Music NYC Recordings, LLC</notes>
+        <data_quality>Correct</data_quality>
+        <master_id is_main_release="true">595959</master_id>
+        <tracklist>
+            <track>
+                <position>A1</position>
+                <title>Pure (Mig's Petalpusher Vocal)</title>
+                <duration>7:02</duration>
+                <extraartists>
+                    <artist>
+                        <id>9571</id>
+                        <name>Jay-J</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Engineer</role>
+                        <tracks></tracks>
+                    </artist>
+                    <artist>
+                        <id>669</id>
+                        <name>Petalpusher</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Remix, Arranged By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>A2</position>
+                <title>Pure (Jay's Original Vocal)</title>
+                <duration>4:30</duration>
+                <extraartists>
+                    <artist>
+                        <id>209463</id>
+                        <name>David Boonshoft</name>
+                        <anv>D. Boonshoft</anv>
+                        <join></join>
+                        <role>Bass</role>
+                        <tracks></tracks>
+                    </artist>
+                    <artist>
+                        <id>352023</id>
+                        <name>Mark Anthony Jones</name>
+                        <anv>Mark Anthony 'thefunkiestmanalive' Jones</anv>
+                        <join></join>
+                        <role>Guitar, Backing Vocals</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>B1</position>
+                <title>Pure (Aquanote Tidal Mix)</title>
+                <duration>6:50</duration>
+                <extraartists>
+                    <artist>
+                        <id>38</id>
+                        <name>Aquanote</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Remix, Arranged By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>B2</position>
+                <title>Pure (Jay's Undercover Dub)</title>
+                <duration>6:45</duration>
+                <extraartists>
+                    <artist>
+                        <id>32</id>
+                        <name>Jay Denes</name>
+                        <anv>J. Denes</anv>
+                        <join></join>
+                        <role>Remix, Arranged By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+        </tracklist>
+        <identifiers>
+            <identifier type="Matrix / Runout" description="Side A, hand-etched runout" value="NM-008 A1"/>
+            <identifier type="Matrix / Runout" description="Side B, hand-etched runout" value="NM-008 B1"/>
+            <identifier type="Rights Society" value="BMI"/>
+            <identifier type="Rights Society" value="ASCAP"/>
+        </identifiers>
+        <videos>
+            <video src="https://www.youtube.com/watch?v=rFRvw6zyo3o" duration="1525" embed="true">
+                <title>Blue Six ‎Pure Full 12</title>
+                <description>Blue Six ‎Pure
+                    Label: Naked Music Recordings ‎– NM008
+                    Format: Vinyl, 12, 33 ⅓ RPM
+                    Country: US
+                    Released: 2000
+                    Genre: Electronic
+                    Style: House, Deep House
+
+                    Tracklist:
+                    A1 Pure (Mig's Petalpusher Vocal) 00:00
+                    A2 Pure (Jay's Original Vocal)  07:06
+                    B</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=LMSX1uj-Kqc" duration="403" embed="true">
+                <title>Blue Six - Pure (Jay's Undercover Dub)</title>
+                <description>Blue Six - Pure (Jay's Undercover Dub)</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=8JfXGlYGMJ8" duration="421" embed="true">
+                <title>Blue Six - Pure (MIX)</title>
+                <description></description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=i-8CY8MIfDk" duration="411" embed="true">
+                <title>Blue Six feat. Monique Bingham - Pure (Aquanote Tidal Remix)</title>
+                <description>Naked Music Recordings, Blue Six ''Pure EP''&#13;
+                    http://www.naked-music.com/</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=E2aC_4dpENw" duration="406" embed="true">
+                <title>Blue Six - Pure</title>
+                <description>Naked Music track 'Pure' by Blue Six on the album 'Beautiful tomorrow.'</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=yP6j82i_nIA" duration="405" embed="true">
+                <title>Blue Six - Pure (Jay's Undercover Dub Mix) (LQ)</title>
+                <description>And One More Remix of This Song, Only a lot with a sleepy tune and tough vocals.
+
+                    The remix was also posted on Friday and is also posted on my channel.. 🎶🦊✌</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=QgMkMxhmER4" duration="403" embed="true">
+                <title>Blue Six   Pure Jay's Undercover Dub</title>
+                <description></description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=6-WJzcAa-vY" duration="334" embed="true">
+                <title>Blue Six   Pure</title>
+                <description>Album: Nude Dimensions-Volume2</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=MTJnClmcjgY" duration="289" embed="true">
+                <title>Pure (Remix)</title>
+                <description>Provided to YouTube by Universal Music Group
+
+                    Pure (Remix) · blue six
+
+                    Beautiful Tomorrow
+
+                    ℗ 2002 Naked Music NYC Recordings LLC
+
+                    Released on: 2002-01-01
+
+                    Producer, Studio  Personnel, Mixer: Jay Denes
+                    Studio  Personnel, Mastering  Engineer: Emily Lazar</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=z75WwW58Dms" duration="267" embed="true">
+                <title>Pure</title>
+                <description>Provided to YouTube by Universal Music Group
+
+                    Pure · blue six
+
+                    Beautiful Tomorrow
+
+                    ℗ 1999 Naked Music NYC Recordings LLC
+
+                    Released on: 2002-01-01
+
+                    Producer, Studio  Personnel, Mixer, Associated  Performer, Programming: Jay Denes
+                    Associated  Performer, </description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=UGhe7uBkG9s" duration="267" embed="true">
+                <title>Pure</title>
+                <description>Provided to YouTube by Universal Music Group
+
+                    Pure · blue six
+
+                    Bare Essentials
+
+                    ℗ 1999 Naked Music NYC Recordings LLC
+
+                    Released on: 2002-01-01
+
+                    Producer, Studio  Personnel, Mixer, Associated  Performer, Programming: Jay Denes
+                    Associated  Performer, Voc</description>
+            </video>
+        </videos>
+        <companies>
+            <company>
+                <id>272720</id>
+                <name>Naked Music NYC Recordings, LLC</name>
+                <catno></catno>
+                <entity_type>13</entity_type>
+                <entity_type_name>Phonographic Copyright (p)</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/272720</resource_url>
+            </company>
+            <company>
+                <id>272720</id>
+                <name>Naked Music NYC Recordings, LLC</name>
+                <catno></catno>
+                <entity_type>14</entity_type>
+                <entity_type_name>Copyright (c)</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/272720</resource_url>
+            </company>
+            <company>
+                <id>272719</id>
+                <name>Fur &amp; Femur Music</name>
+                <catno></catno>
+                <entity_type>21</entity_type>
+                <entity_type_name>Published By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/272719</resource_url>
+            </company>
+            <company>
+                <id>727314</id>
+                <name>M. Bingham</name>
+                <catno></catno>
+                <entity_type>21</entity_type>
+                <entity_type_name>Published By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/727314</resource_url>
+            </company>
+            <company>
+                <id>355338</id>
+                <name>Moulton Studios</name>
+                <catno></catno>
+                <entity_type>24</entity_type>
+                <entity_type_name>Engineered At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/355338</resource_url>
+            </company>
+        </companies>
+    </release>
+    <release id="10" status="Accepted">
+        <images>
+            <image type="primary" uri="" uri150="" width="494" height="494"/>
+            <image type="secondary" uri="" uri150="" width="600" height="596"/>
+            <image type="secondary" uri="" uri150="" width="593" height="600"/>
+            <image type="secondary" uri="" uri150="" width="597" height="600"/>
+        </images>
+        <artists>
+            <artist>
+                <id>36</id>
+                <name>Lovetronic</name>
+                <anv></anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <title>You Are Love</title>
+        <labels>
+            <label name="Naked Music Recordings" catno="NM003" id="10"/>
+            <label name="Naked Music Recordings" catno="nm 003" id="10"/>
+        </labels>
+        <extraartists>
+            <artist>
+                <id>74994</id>
+                <name>Bruno Ybarra</name>
+                <anv></anv>
+                <join></join>
+                <role>Administrator [Label Director]</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>8217037</id>
+                <name>Stuart Patterson (8)</name>
+                <anv>S. Patterson</anv>
+                <join></join>
+                <role>Design, Illustration</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>209463</id>
+                <name>David Boonshoft</name>
+                <anv>Dave Boonshoft</anv>
+                <join></join>
+                <role>Executive-Producer</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>670</id>
+                <name>Lisa Shaw</name>
+                <anv></anv>
+                <join></join>
+                <role>Vocals</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>40</id>
+                <name>Dave Warrin</name>
+                <anv></anv>
+                <join></join>
+                <role>Written-By, Producer, Performer</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>32</id>
+                <name>Jay Denes</name>
+                <anv></anv>
+                <join></join>
+                <role>Written-By, Producer, Performer</role>
+                <tracks></tracks>
+            </artist>
+        </extraartists>
+        <formats>
+            <format name="Vinyl" qty="1" text="">
+                <descriptions>
+                    <description>12"</description>
+                    <description>33 ⅓ RPM</description>
+                </descriptions>
+            </format>
+        </formats>
+        <genres>
+            <genre>Electronic</genre>
+        </genres>
+        <styles>
+            <style>Deep House</style>
+        </styles>
+        <country>US</country>
+        <released>1999-08-00</released>
+        <notes>Track A1: remix and arrangement for Naked Music NYC.
+            Track A2: remix and arrangement for Payback Productions.
+            Track B1: engineered at Moulton Street Studios.
+            Track B2: original version written, produced and arranged for Naked Music NYC.
+
+            Copyright 1999, Fur &amp; Femur Music (BMI).</notes>
+        <data_quality>Correct</data_quality>
+        <master_id is_main_release="true">160011</master_id>
+        <tracklist>
+            <track>
+                <position>A1</position>
+                <title>You Are Love (Jay's Afrotronic Vocal)</title>
+                <duration>7:46</duration>
+                <extraartists>
+                    <artist>
+                        <id>143102</id>
+                        <name>Carlos Gomez</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Percussion [Additional]</role>
+                        <tracks></tracks>
+                    </artist>
+                    <artist>
+                        <id>32</id>
+                        <name>Jay Denes</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Remix, Arranged By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>A2</position>
+                <title>You Are Love (After Hours Payback Session)</title>
+                <duration>7:30</duration>
+                <extraartists>
+                    <artist>
+                        <id>356735</id>
+                        <name>Simon Bradshaw</name>
+                        <anv>Si Brad</anv>
+                        <join></join>
+                        <role>Remix, Arranged By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>B1</position>
+                <title>You Are Love (Petalpusher Dub)</title>
+                <duration>7:46</duration>
+                <extraartists>
+                    <artist>
+                        <id>9571</id>
+                        <name>Jay-J</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Engineer</role>
+                        <tracks></tracks>
+                    </artist>
+                    <artist>
+                        <id>34</id>
+                        <name>Miguel Migs</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Remix, Arranged By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>B2</position>
+                <title>You Are Love (Original Vocal)</title>
+                <duration>8:05</duration>
+                <extraartists>
+                    <artist>
+                        <id>40</id>
+                        <name>Dave Warrin</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Written-By, Producer, Arranged By</role>
+                        <tracks></tracks>
+                    </artist>
+                    <artist>
+                        <id>32</id>
+                        <name>Jay Denes</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Written-By, Producer, Arranged By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+        </tracklist>
+        <identifiers>
+            <identifier type="Matrix / Runout" description="Side A, hand-etched runout" value="NM-003 A1 3226.1(3)"/>
+            <identifier type="Matrix / Runout" description="Side B, hand-etched runout" value="NM-003 B1 3226.2(3)"/>
+            <identifier type="Rights Society" value="BMI"/>
+        </identifiers>
+        <videos>
+            <video src="https://www.youtube.com/watch?v=0FYPW8dDoi0" duration="427" embed="true">
+                <title>Lovetronic - You Are Love (Jay's Afrotonic Vocal)</title>
+                <description>Lovetronic - You Are Love (Jay's Afrotonic Vocal)</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=mzG4sC2pMeY" duration="446" embed="true">
+                <title>Lovetronic  -  You Are Love (After Hours Payback Session)</title>
+                <description>1999. You Are Love Vinyl, 12  -  Naked Music Recordings
+                    Remix, Arranged By – Si Brad
+                    Vocals – Lisa Shaw
+                    Written-By, Producer, Arranged By – Dave Warrin, Jay Denes</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=lL2-6BGjPCw" duration="419" embed="true">
+                <title>Lovetronic - You Are Love (Petalpusher Dub)</title>
+                <description>Petalpusher Dub</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=7h-mfq7SWQ8" duration="423" embed="true">
+                <title>Lovetronic ‎-- You Are Love</title>
+                <description>Let there be House·in Social Media: https://www.facebook.com/pages/Let-there-be-HOUSEmusic/532228046810551?ref=hl
+
+                    Label:
+                    Naked Music Recordings ‎-- NM003
+                    Format:
+                    Vinyl, 12
+                    Country:
+                    US
+                    Released:
+                    1999
+                    Genre:
+                    Electronic
+                    Style:
+                    Deep House
+
+                    TO OWNERS &amp; C</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=k5zqX-fNJWU" duration="421" embed="true">
+                <title>Lovetronic - You Are Love (Original Version)</title>
+                <description>Bare Essentials Volume 1 (2001) is a compilation of house &amp; dance tracks featured on the Naked Music NYC label. Included are original, remix, and dub versions, some previously unreleased by Petalpusher, Groove Collective, Lovetronic, Blue Six, Night Sourc</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=_V5Ybtx99lw" duration="424" embed="true">
+                <title>You Are Love (Original Version)</title>
+                <description>Provided to YouTube by Universal Music Group
+
+                    You Are Love (Original Version) · Lovetronic
+
+                    Bare Essentials
+
+                    ℗ 1999 Naked Music NYC Recordings LLC
+
+                    Released on: 2002-01-01
+
+                    Producer: Dave Warrin
+                    Producer: Jay Denes
+                    Associated  Performer, Vocals: Lisa Shaw</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=59w2TCEArVU" duration="510" embed="true">
+                <title>Lovetronic-You are Love (After Hours Payback Session)</title>
+                <description>Lounge, Chillout, Deep House gem. A J. Denes project, -best version in my opinion&#13;
+                    -I don´t own the Music nor the Images. Please buy the record and participate in global well beings of a beautiful world. I´ll remove the youtubeclip if anyone makes claims </description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=6IGXOK-gJGg" duration="380" embed="true">
+                <title>Lovetronic - You Are Love Jay's Afrotronic Extended Vocal</title>
+                <description></description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=yd6KqnKgsPk" duration="401" embed="true">
+                <title>Hotel Costes 2 - Lovetronic - You Are Love (Jay's Afrotonic Vocal)</title>
+                <description>Spotify            http://spoti.fi/2jpSRYp
+                    Deezer            http://bit.ly/2kFdHmk
+                    Apple Music    http://bit.ly/2kwBfPg</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=kbItgmaxUyE" duration="427" embed="true">
+                <title>Lovetronic - You Are Love (Jay's Afrotonic Vocal) (1999)</title>
+                <description>Label : Naked Music (NM003)
+                    Style : Deep House, Vocal</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=RfbFZN5etmk" duration="415" embed="true">
+                <title>Lovetronic | You Are Love (Petalpusher Dub)</title>
+                <description>Vocals – Lisa Shaw&#13;
+                    Naked Music Recordings ‎– NM003 | Repress 2007&#13;
+                    Naked Music Recordings ‎– NM003 | 1999&#13;
+                    Vinyl Rips On This Channel Are Recorded From The Original 12 By Me</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=_0ivMlEwOu8" duration="445" embed="true">
+                <title>You Are Love (Brad's Payback Vocal)</title>
+                <description>Provided to YouTube by Universal Music Group
+
+                    You Are Love (Brad's Payback Vocal) · Lovetronic
+
+                    Bare Essentials
+
+                    ℗ 1999 Naked Music NYC Recordings LLC
+
+                    Released on: 2002-01-01
+
+                    Producer: Dave Warrin
+                    Producer: Jay Denes
+                    Associated  Performer, Vocals: Lisa </description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=_xhI32IK_9M" duration="445" embed="true">
+                <title>Lovetronic-You are love. Original Mix.</title>
+                <description>This is Brad39s-playback-vocal Mix...the Original. I saw there were a number of requests for the original mix on YouTube, so here it is :)
+
+                    Enjoy, its a great cut.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=v2HxbB0YfxM" duration="450" embed="true">
+                <title>Lovetronic - You Are Love (Jay's Afrotronic Vocal)</title>
+                <description></description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=kRQqqVfqr7w" duration="424" embed="true">
+                <title>Lovetronic - You Are Love (Original Version) [NM 005]</title>
+                <description>Various – Bare Essentials Volume One (2001)
+                    Naked Music Recordings
+                    [Deep House]
+                    https://www.discogs.com/release/164946-Various-Bare-Essentials-Volume-One
+
+
+
+                    *Will remove at owner's request
+                    #deephousemusic</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=FiExv4IJPAg" duration="445" embed="true">
+                <title>Lovetronic - You Are Love (After Hours Payback Session)</title>
+                <description>Please watch: Glenn Underground - Head Of House
+                    https://www.youtube.com/watch?v=BZOi0sy1O2U --~--
+                    Lovetronic - You Are Love (After Hours Payback Session) (1999)
+                    *If any copyright issues, please contact me and I will be gladly to remove the video*
+                    more</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=rgVAwbuzU-s" duration="479" embed="true">
+                <title>Lovetronic - You Are Love (After Hours Payback Session)</title>
+                <description>Created with http://www.mp32tube.com</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=wjh_A_ByZX0" duration="442" embed="true">
+                <title>You Are Love</title>
+                <description>Provided to YouTube by Ingrooves
+
+                    You Are Love · Lovetronic
+
+                    Café New York
+
+                    ℗ 2022 Avatar Records
+
+                    Released on: 2022-08-29
+
+                    Composer, Writer: Dave Warren
+                    Composer, Writer: James Denes
+
+                    Auto-generated by YouTube.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=8CMDDAZl_qo" duration="390" embed="true">
+                <title>Lovetronic - You Are Love (Si Brad's Payback Dub)</title>
+                <description>Full length version of the remix featured on Nude Dimensions Vol. 1 mixed by Miguel Migs, under the label Naked Music Recordings.
+
+                    If anyone knows if this remix had an official release, please drop me a message.
+
+                    No copyright intended; embedding has been</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=N1LMp970RYU" duration="421" embed="true">
+                <title>Lovetronic - You Are Love (Original Version)</title>
+                <description>Please set the thumb, if you like it. Is nice to know what style you like most.
+
+                    Subscribe: Fomix Sound - https://bit.ly/33ySS4j
+                    Subscribe: Fomix DJ Set - https://bit.ly/3keErJz
+
+                    #FomixSound #FomixDJSet#ClubBar #club #Lovetronic
+
+                    ENJOY
+
+                    This channel is es</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=QAS5MBCqxpM" duration="447" embed="true">
+                <title>lovetronic YOU ARE LOVE</title>
+                <description>Sick tune that was removed off the internet with a cool video as well. I just need to make this clear that I do not own the rights to this song or this video. This is simply a song and a video that was taken off of youtube and I thought it should be enjoy</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=6ChzpKORd64" duration="476" embed="true">
+                <title>Lovetronic | You Are Love (After Hours Payback Session)</title>
+                <description>Naked Music Recordings – NM003 | 1999&#13;
+                    Vinyl Rips On This Channel Are Recorded From The Original 12 By Me</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=dCDlY8Mqs1c" duration="424" embed="true">
+                <title>Lovetronic - You Are Love (Original Version)</title>
+                <description>© Naked Music Recordings 1999, Various Artists ''Bare Essentials Volume 1''
+                    Style: Deep House
+
+                    http://www.naked-music.com/</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=87q3Rt1RkL4" duration="464" embed="true">
+                <title>YOU ARE LOVE (JAY'S AFROTRONIC VOCAL) - LOVETRONIC</title>
+                <description>YOU ARE LOVE (JAY'S AFROTRONIC VOCAL) - LOVETRONIC</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=lRH7hja41B8" duration="447" embed="true">
+                <title>Lovetronic You are Love</title>
+                <description></description>
+            </video>
+        </videos>
+        <companies>
+            <company>
+                <id>272719</id>
+                <name>Fur &amp; Femur Music</name>
+                <catno></catno>
+                <entity_type>21</entity_type>
+                <entity_type_name>Published By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/272719</resource_url>
+            </company>
+            <company>
+                <id>355338</id>
+                <name>Moulton Studios</name>
+                <catno></catno>
+                <entity_type>24</entity_type>
+                <entity_type_name>Engineered At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/355338</resource_url>
+            </company>
+            <company>
+                <id>1498978</id>
+                <name>Art Dept. NYC</name>
+                <catno></catno>
+                <entity_type>33</entity_type>
+                <entity_type_name>Designed At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/1498978</resource_url>
+            </company>
+        </companies>
+    </release>
+    <release id="11" status="Accepted">
+        <images>
+            <image type="primary" uri="" uri150="" width="600" height="600"/>
+            <image type="secondary" uri="" uri150="" width="600" height="596"/>
+            <image type="secondary" uri="" uri150="" width="600" height="600"/>
+            <image type="secondary" uri="" uri150="" width="598" height="600"/>
+        </images>
+        <artists>
+            <artist>
+                <id>33</id>
+                <name>Blue Six</name>
+                <anv></anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <title>Music And Wine</title>
+        <labels>
+            <label name="Naked Music Recordings" catno="NM002" id="10"/>
+            <label name="Naked Music Recordings" catno="nm 002" id="10"/>
+        </labels>
+        <extraartists>
+            <artist>
+                <id>74994</id>
+                <name>Bruno Ybarra</name>
+                <anv></anv>
+                <join></join>
+                <role>Administrator [Label Director]</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>8217037</id>
+                <name>Stuart Patterson (8)</name>
+                <anv>S. Patterson</anv>
+                <join></join>
+                <role>Design, Illustration</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>209463</id>
+                <name>David Boonshoft</name>
+                <anv>Dave Boonshoft</anv>
+                <join></join>
+                <role>Electric Bass</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>209463</id>
+                <name>David Boonshoft</name>
+                <anv>Dave Boonshoft</anv>
+                <join></join>
+                <role>Executive-Producer</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>352023</id>
+                <name>Mark Anthony Jones</name>
+                <anv>Mark Anthony 'thefunkiestmanalive' Jones</anv>
+                <join></join>
+                <role>Guitar</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>34181</id>
+                <name>Catherine Russell</name>
+                <anv></anv>
+                <join></join>
+                <role>Vocals</role>
+                <tracks></tracks>
+            </artist>
+            <artist>
+                <id>32</id>
+                <name>Jay Denes</name>
+                <anv></anv>
+                <join></join>
+                <role>Written-By, Producer, Performer</role>
+                <tracks></tracks>
+            </artist>
+        </extraartists>
+        <formats>
+            <format name="Vinyl" qty="1" text="">
+                <descriptions>
+                    <description>12"</description>
+                    <description>33 ⅓ RPM</description>
+                </descriptions>
+            </format>
+        </formats>
+        <genres>
+            <genre>Electronic</genre>
+        </genres>
+        <styles>
+            <style>Deep House</style>
+        </styles>
+        <country>US</country>
+        <released>1999</released>
+        <notes>A1: remix and arrangement for Deluxe Soul Productions. Engineered at Moulton Street Studios.
+            A2 and B2: original version written, produced, and arranged for Naked Music NYC.
+            B1: remix and arrangement for Toko Productions.
+
+            BPM is not provided on the record.
+            BPM:
+            A1: 125 | A2: 125
+            B1: 125 | B2: 123
+
+            Copyright 1999, Fur &amp; Femur Music (BMI).
+
+            Re-pressed in 2007 with a generic [url=http://www.discogs.com/Blue-Six-Music-And-Wine/release/3535883]Naked Music Classics cover[/url].
+        </notes>
+        <data_quality>Correct</data_quality>
+        <master_id is_main_release="true">104406</master_id>
+        <tracklist>
+            <track>
+                <position>A1</position>
+                <title>Music And Wine (Mig's Petalpusher Vocal)</title>
+                <duration>8:20</duration>
+                <extraartists>
+                    <artist>
+                        <id>9571</id>
+                        <name>Jay-J</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Engineer</role>
+                        <tracks></tracks>
+                    </artist>
+                    <artist>
+                        <id>34</id>
+                        <name>Miguel Migs</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Remix, Arranged By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>A2</position>
+                <title>Music And Wine (Original Funkaphonic Vocal)</title>
+                <duration>7:44</duration>
+                <extraartists>
+                    <artist>
+                        <id>32</id>
+                        <name>Jay Denes</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Written-By, Producer, Arranged By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>B1</position>
+                <title>Music And Wine (Th'Attaboy Vocal)</title>
+                <duration>8:58</duration>
+                <extraartists>
+                    <artist>
+                        <id>35</id>
+                        <name>Attaboy</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Remix, Arranged By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+            <track>
+                <position>B2</position>
+                <title>Music And Wine (Jay's Blue Silk Dub)</title>
+                <duration>6:00</duration>
+                <extraartists>
+                    <artist>
+                        <id>40</id>
+                        <name>Dave Warrin</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Keyboards [Additional], Strings [Additional]</role>
+                        <tracks></tracks>
+                    </artist>
+                    <artist>
+                        <id>32</id>
+                        <name>Jay Denes</name>
+                        <anv></anv>
+                        <join></join>
+                        <role>Remix, Arranged By</role>
+                        <tracks></tracks>
+                    </artist>
+                </extraartists>
+            </track>
+        </tracklist>
+        <identifiers>
+            <identifier type="Matrix / Runout" description="Side A, hand-etched runout" value="NMØØ2-A 5113.1"/>
+            <identifier type="Matrix / Runout" description="Side B, hand-etched runout" value="NM-ØØ2-B 5113.2"/>
+            <identifier type="Rights Society" value="BMI"/>
+        </identifiers>
+        <videos>
+            <video src="https://www.youtube.com/watch?v=iwxHAhIWtWM" duration="1881" embed="true">
+                <title>Blue Six ‎Music And Wine Full 12</title>
+                <description>Blue Six ‎Music And Wine
+                    Label: Naked Music Recordings ‎– NM002, Naked Music Recordings ‎– nm 002
+                    Format: Vinyl, 12, 33 ⅓ RPM
+                    Country: US
+                    Released: 1999
+                    Genre: Electronic
+                    Style: Deep House
+
+                    Tracklist:
+                    A1 Music And Wine (Mig's Petalpusher V</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=tbDg4NJIOMk" duration="237" embed="true">
+                <title>Blue Six - Music &amp; Wine (Original Video) HQ</title>
+                <description>Naked Music Recordings 1999
+                    Deep House</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=Q15K3R2p5sU" duration="190" embed="true">
+                <title>Blue Six - Music &amp; Wine</title>
+                <description>Blue Six - Music &amp; Wine</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=YTLeDC4etuw" duration="463" embed="true">
+                <title>Blue Six - Music And Wine (Original Funkaphonic Vocal)</title>
+                <description>Music And Wine
+                    Naked Music Recordings
+                    1999</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=Tb3sXz4kyGo" duration="499" embed="true">
+                <title>MUSIC &amp; WINE (MIGUEL MIG'S PETALPUSHER VOCAL MIX) - BLUE SIX</title>
+                <description>MUSIC &amp; WINE (MIGUEL MIG'S PETALPUSHER VOCAL MIX) - BLUE SIX</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=GhOPV9yFbnA" duration="542" embed="true">
+                <title>Blue Six - Music &amp; Wine (Th' Attaboy Vocal)</title>
+                <description>From the EP Music &amp; Wine, Blue Six&#13;
+                    &#13;
+                    Available on Itunes, support this artist : &#13;
+                    http://itunes.apple.com/us/album/music-and-wine-ep/id17804676</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=9k2xMq1iWNc" duration="357" embed="true">
+                <title>Blue Six -  Music &amp; Wine (Jay's Blue Silk Dub)</title>
+                <description>© Naked Music Recordings 1999, Blue Six ''Music &amp; Wine''
+                    Style: Deep House
+
+                    http://www.naked-music.com/</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=pQvT5cDa1d8" duration="244" embed="true">
+                <title>Blue Six - Music &amp; Wine (Speakeasy 3000 Remix﻿)</title>
+                <description>Music by:Jay Denes&#13;
+                    Vocals by:Catherine Russell&#13;
+                    &#13;
+                    Lyrics:&#13;
+                    valentine&#13;
+                    hard to find&#13;
+                    love is blind&#13;
+                    acquaintances can be unkind&#13;
+                    &#13;
+                    state of mind&#13;
+                    show a sign&#13;
+                    hope divine&#13;
+                    just making love to pass the time&#13;
+                    &#13;
+                    used to get high just to pass the time&#13;
+                    music </description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=G3Zm6CslYGU" duration="408" embed="true">
+                <title>Blue Six - Music and Wine (Conga Lounge Mix)</title>
+                <description>Blue Six - Music and Wine 1999</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=bfW6kogTxWc" duration="431" embed="true">
+                <title>Music And Wine</title>
+                <description>Provided to YouTube by Universal Music Group
+
+                    Music And Wine · blue six
+
+                    Beautiful Tomorrow
+
+                    ℗ 2002 Naked Music NYC Recordings, LLC.
+
+                    Released on: 2002-01-01
+
+                    Composer  Lyricist: Denes
+
+                    Auto-generated by YouTube.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=gUqC3n7-U2E" duration="406" embed="true">
+                <title>Blue Six - Music and wine</title>
+                <description>I do not own any copyrights on this song!&#13;
+                    &#13;
+                    -&#13;
+                    Created with AquaSoft SlideShow for YouTube: http://www.aquasoft.net</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=Ogm0DcSPTOw" duration="407" embed="true">
+                <title>Music and Wine (Speakeasy 3000)</title>
+                <description>Provided to YouTube by The Orchard Enterprises
+
+                    Music and Wine · Blue Six · Eric Stamile · Gaelle Adisson
+
+                    Music and Wine / All I Need - Single
+
+                    ℗ 2002 Naked Music NYC Recordings LLC
+
+                    Released on: 2002-07-10
+
+                    Producer: Jay Denes
+
+                    Auto-generated by YouTube</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=zJwCiY4BAKI" duration="324" embed="true">
+                <title>Music And Wine (Remix)</title>
+                <description>Provided to YouTube by Universal Music Group
+
+                    Music And Wine (Remix) · blue six
+
+                    Beautiful Tomorrow
+
+                    ℗ 2002 Naked Music NYC Recordings LLC
+
+                    Released on: 2002-01-01
+
+                    Producer, Studio  Personnel, Mixer: Jay Denes
+                    Studio  Personnel, Mastering  Engineer: Emil</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=CAQtMbU8ex4" duration="324" embed="true">
+                <title>Blue Six - Music And Wine(Teksoul Dub)</title>
+                <description>Artist:Blue Six
+                    Name:Music And Wine(Teksoul Dub)
+                    Album:Beautiful Tomorrow
+                    Album Artist:Blue Six
+                    Year:2002
+                    Genre:Deep House/Deep Tech-House/Ambient
+                    Label:Naked Music Recordings</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=3DzKaZ1jAs4" duration="406" embed="true">
+                <title>Blue 6  -  Music and Wine (Speakeasy 3000! Remix)</title>
+                <description>2002. Music and Wine/All I Need Unreleased Mixes Vinyl, 12  -  Naked Music Recordings
+                    Guitar – Mark Anthony Jones
+                    Producer, Written-By – Jay Denes
+                    Vocals – Catherine Russell</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=EOj1Fmm8ljM" duration="502" embed="true">
+                <title>Blue Six - Music And Wine (Mig's Petalpusher Vocal) [NM 002]</title>
+                <description>Blue Six ‎– Music And Wine (1999)
+                    [Deep House]
+                    https://www.discogs.com/Blue-Six-Music-And-Wine/release/11
+
+
+                    *Will remove at owner's request</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=V8mX6zXclHk" duration="331" embed="true">
+                <title>Music &amp; Wine (Jay's Conga Lounge Vocal)</title>
+                <description>Provided to YouTube by Universal Music Group
+
+                    Music &amp; Wine (Jay's Conga Lounge Vocal) · blue six
+
+                    Bare Essentials
+
+                    ℗ 1999 Naked Music NYC Recordings LLC
+
+                    Released on: 2002-01-01
+
+                    Producer, Associated  Performer, Music  Production, Studio  Personnel, Remix</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=hJ1xNTVpFs4" duration="502" embed="true">
+                <title>Music and Wine (Satin Souls Remix)</title>
+                <description>Provided to YouTube by The Orchard Enterprises
+
+                    Music and Wine · Blue Six
+
+                    Music and Wine / All I Need - Single
+
+                    ℗ 2002 Naked Music NYC Recordings LLC
+
+                    Released on: 2002-07-10
+
+                    Producer: Jay Denes
+
+                    Auto-generated by YouTube.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=hnUf3IfwzSc" duration="434" embed="true">
+                <title>Blue Six - Music and Wine (The Attaboy Vocal Mix)</title>
+                <description>There are atleast 150 posts of the same tropical plink plonk lame boring version of this, and the attaboy mix isnt even up anymore. why? YT probably took it down. This is by far the chunkiest version and best if you ask me.</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=9vJHSu8BlWM" duration="404" embed="true">
+                <title>Blue Six - Music &amp; Wine (Th'Attaboy vocal)</title>
+                <description>great remix of Music &amp; Wine from Blue Six</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=HDkl-ePLyME" duration="246" embed="true">
+                <title>Blue Six - Music &amp; Wine</title>
+                <description>Hope you will enjoy it ...</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=Ii_25UT55DA" duration="414" embed="true">
+                <title>Blue Six -  Music and Wine (Attaboy Vocal)</title>
+                <description>from Ministry of Sound Late Night Sessions III Disc 2, 1999</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=Fg-t_eGJw5g" duration="371" embed="true">
+                <title>Blue Six - Music &amp; Wine_Jay's Blue Silk Dub</title>
+                <description>me like it...</description>
+            </video>
+            <video src="https://www.youtube.com/watch?v=4I6G-aJlCj4" duration="324" embed="true">
+                <title>Blue Six - Music and Wine (Teksoul Dub) DEEP HOUSE</title>
+                <description>Deep Houseification!&#13;
+                    &#13;
+                    Blue Six - Music and Wine (Teksoul Dub)</description>
+            </video>
+        </videos>
+        <companies>
+            <company>
+                <id>272719</id>
+                <name>Fur &amp; Femur Music</name>
+                <catno></catno>
+                <entity_type>21</entity_type>
+                <entity_type_name>Published By</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/272719</resource_url>
+            </company>
+            <company>
+                <id>355338</id>
+                <name>Moulton Studios</name>
+                <catno></catno>
+                <entity_type>24</entity_type>
+                <entity_type_name>Engineered At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/355338</resource_url>
+            </company>
+            <company>
+                <id>1498978</id>
+                <name>Art Dept. NYC</name>
+                <catno></catno>
+                <entity_type>33</entity_type>
+                <entity_type_name>Designed At</entity_type_name>
+                <resource_url>https://api.discogs.com/labels/1498978</resource_url>
+            </company>
+        </companies>
+    </release>
+</releases>
