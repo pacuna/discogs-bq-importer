@@ -1,0 +1,84 @@
+<artists>
+    <artist>
+        <images>
+            <image type="primary" uri="" uri150="" width="600" height="852"/>
+            <image type="secondary" uri="" uri150="" width="560" height="727"/>
+            <image type="secondary" uri="" uri150="" width="566" height="574"/>
+            <image type="secondary" uri="" uri150="" width="439" height="475"/>
+            <image type="secondary" uri="" uri150="" width="567" height="547"/>
+            <image type="secondary" uri="" uri150="" width="400" height="263"/>
+            <image type="secondary" uri="" uri150="" width="600" height="451"/>
+            <image type="secondary" uri="" uri150="" width="368" height="374"/>
+            <image type="secondary" uri="" uri150="" width="600" height="902"/>
+            <image type="secondary" uri="" uri150="" width="600" height="444"/>
+            <image type="secondary" uri="" uri150="" width="600" height="442"/>
+            <image type="secondary" uri="" uri150="" width="600" height="875"/>
+        </images>
+        <id>31617</id>
+        <name>Chet Baker</name>
+        <realname>Chesney Henry Baker, Jr.</realname>
+        <profile>American jazz trumpeter, singer, composer, and artist. &#13;
+            &#13;
+            Born: 23 December 1929 in Yale, Oklahoma, USA. &#13;
+            Died: 13 May 1988 in Amsterdam, The Netherlands (aged 58). &#13;
+            &#13;
+            Baker began his career in the early 1950s and played together with [a75617] and [a37733]. Unfortunately, his drug addiction hampered his career, including arrests for narcotics. &#13;
+            &#13;
+            From 1957 on, he had several comebacks with such musicians as [a298943], [a252017], and Gerry Mulligan with whom he had already recorded. In spite of having his teeth knocked out, Baker recovered and continued to record frequently, especially in live settings, for many different labels, including small groups and fronting large ensembles. &#13;
+            &#13;
+            From the 1980s until he died, he did a lot of his recordings in Europe.</profile>
+        <data_quality>Needs Vote</data_quality>
+        <urls>
+            <url>https://www.chetbaker.net/</url>
+            <url>https://en.wikipedia.org/wiki/Chet_Baker</url>
+            <url>https://www.britannica.com/biography/Chet-Baker</url>
+        </urls>
+        <namevariations>
+            <name>Baker</name>
+            <name>Bakert</name>
+            <name>C. Baker</name>
+            <name>C.B.</name>
+            <name>C.Baker</name>
+            <name>Ch. Baker</name>
+            <name>Chat Baker</name>
+            <name>Chesney "Chet" Baker</name>
+            <name>Chet</name>
+            <name>Chet Baker &amp; Guests</name>
+            <name>Chet Baker And Band</name>
+            <name>Chet Baker Ecc.</name>
+            <name>Chet Baker Quartet</name>
+            <name>Chet Baker Quintet</name>
+            <name>Chet Baker Sextet</name>
+            <name>Chet Baker Sings</name>
+            <name>Chet Baker Sings And Plays</name>
+            <name>Chet Baker Trio</name>
+            <name>Chet Baker Trio Meets</name>
+            <name>Chet Baker With</name>
+            <name>Chet Baker with</name>
+            <name>Чет Бейкер</name>
+            <name>チェット・ベイカー</name>
+        </namevariations>
+        <groups>
+            <name id="310109">Chet Baker Quartet</name>
+            <name id="360224">The Chet Baker Quintet</name>
+            <name id="375978">Gerry Mulligan Quartet</name>
+            <name id="375981">Gerry Mulligan Tentette</name>
+            <name id="376042">Shorty Rogers And His Giants</name>
+            <name id="376043">Chet Baker Ensemble</name>
+            <name id="376044">Chet Baker - Stan Getz Quartet</name>
+            <name id="541926">Chet Baker Sextet</name>
+            <name id="864410">Chet Baker &amp; Crew</name>
+            <name id="1207566">Chet Baker Trio</name>
+            <name id="1480822">Archie Shepp - Chet Baker Quintet</name>
+            <name id="1480947">Chet Baker &amp; Strings</name>
+            <name id="2460638">Chet Baker Orchestra</name>
+            <name id="3265676">Chet Baker Group</name>
+            <name id="3417394">Jack Sheldon And His Exciting All-Star Big-Band</name>
+            <name id="4093026">The Chet Baker-Art Pepper Sextet</name>
+            <name id="5402803">Chet Baker Octet</name>
+            <name id="5402804">Chet Baker Septet</name>
+            <name id="5967466">Chet Baker / René Thomas Quintet</name>
+            <name id="7771877">Chet Baker Big Band</name>
+        </groups>
+    </artist>
+</artists>
