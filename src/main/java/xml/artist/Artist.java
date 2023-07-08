@@ -1,37 +1,38 @@
 package xml.artist;
 
 import javax.xml.bind.annotation.*;
+import java.util.ArrayList;
 import java.util.List;
 
-@XmlRootElement(name="artist")
+@XmlRootElement(name = "artist")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Artist {
-    @XmlElement(name="id")
+    @XmlElement(name = "id")
     private Integer id;
 
-    @XmlElement(name="name")
+    @XmlElement(name = "name")
     private String name;
 
-    @XmlElement(name="realname")
+    @XmlElement(name = "realname")
     private String realName;
 
-    @XmlElement(name="profile")
+    @XmlElement(name = "profile")
     private String profile;
 
-    @XmlElement(name="data_quality")
+    @XmlElement(name = "data_quality")
     private String dataQuality;
 
-    @XmlElementWrapper(name="urls")
-    @XmlElement(name="url")
-    private List<String> urls;
+    @XmlElementWrapper(name = "urls")
+    @XmlElement(name = "url")
+    private List<String> urls = new ArrayList<>();
 
-    @XmlElementWrapper(name="namevariations")
-    @XmlElement(name="name")
-    private List<String> nameVariations;
+    @XmlElementWrapper(name = "namevariations")
+    @XmlElement(name = "name")
+    private List<String> nameVariations = new ArrayList<>();
 
-    @XmlElementWrapper(name="groups")
-    @XmlElement(name="name")
-    private List<GroupName> groupNames;
+    @XmlElementWrapper(name = "groups")
+    @XmlElement(name = "name")
+    private List<GroupName> groupNames = new ArrayList<>();
 
     public Artist(Integer id, String name, String realName, String profile, String dataQuality, List<String> urls, List<String> nameVariations, List<GroupName> groupNames) {
         this.id = id;

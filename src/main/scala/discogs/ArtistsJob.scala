@@ -33,12 +33,12 @@ object ArtistsJob {
 
     xmls
       .map { a =>
-        val groups = if (a.getGroupNames != null) a.getGroupNames.asScala.map { g =>
+        val groups = a.getGroupNames.asScala.map { g =>
           Types.Group(
             id = Option(g.getId),
             name = Option(g.getValue)
           )
-        } else List.empty
+        }
 
         Types.Artist(
           id = Option(a.getId),
