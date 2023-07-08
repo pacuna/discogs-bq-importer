@@ -9,14 +9,14 @@ Scio Dataflow job to load the [discogs xml dumps](https://discogs-data-dumps.s3.
 Current available jobs: 
 
 - [ ] Labels
-- [ ] Artists
+- [x] Artists
 - [ ] Masters
 - [x] Releases
 
-To run the releases job, download the releases xml compressed dump and upload it to your own gcp bucket.
-Follow the [Scio instructions](https://spotify.github.io/scio/Getting-Started.html) to set up your GCP project. The releases job takes about 1 hour to complete using the default run settings.
+To run the jobs, download the compressed XML dumps and upload them to your own gcp bucket.
+Follow the [Scio instructions](https://spotify.github.io/scio/Getting-Started.html) to set up your GCP project.
 
-Command:
+### Releases
 
 ```
 sbt "runMain discogs.ReleasesJob
@@ -24,5 +24,16 @@ sbt "runMain discogs.ReleasesJob
   --runner=DataflowRunner
   --region=us-central1
   --input=gs://your-bucket/releases.xml.gz
-  --output=your-project.bq-dataset.bq-table"
+  --output=your-project.bq-dataset.releases-bq-table"
+```
+
+### Artists
+
+```
+sbt "runMain discogs.ArtistsJob
+  --project=your-gpc-project-id
+  --runner=DataflowRunner
+  --region=us-central1
+  --input=gs://your-bucket/releases.xml.gz
+  --output=your-project.bq-dataset.artists-bq-table"
 ```
