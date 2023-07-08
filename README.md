@@ -2,7 +2,7 @@
 
 ## Raison d'être
 
-Scio Dataflow job to load the [discogs xml dumps](https://discogs-data-dumps.s3.us-west-2.amazonaws.com/index.html) into a BigQuery table
+Scio Dataflow job to load the [discogs xml dumps](https://discogs-data-dumps.s3.us-west-2.amazonaws.com/index.html) into BigQuery tables.
 
 ## Running
 
