@@ -16,7 +16,7 @@ Current available jobs:
 To run the jobs, download the compressed XML dumps and upload them to your own gcp bucket.
 Follow the [Scio instructions](https://spotify.github.io/scio/Getting-Started.html) to set up your GCP project.
 
-All the times were measure using the default run arguments for Dataflow.
+All the times were measured using the default run arguments for Dataflow.
 
 ### Releases (~ 1 hour)
 
