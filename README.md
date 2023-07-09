@@ -16,7 +16,9 @@ Current available jobs:
 To run the jobs, download the compressed XML dumps and upload them to your own gcp bucket.
 Follow the [Scio instructions](https://spotify.github.io/scio/Getting-Started.html) to set up your GCP project.
 
-### Releases
+All the times were measure using the default run arguments for Dataflow.
+
+### Releases (~ 1 hour)
 
 ```
 sbt "runMain discogs.ReleasesJob
@@ -27,7 +29,7 @@ sbt "runMain discogs.ReleasesJob
   --output=your-project.bq-dataset.releases-bq-table"
 ```
 
-### Artists
+### Artists (~ 11 minutes)
 
 ```
 sbt "runMain discogs.ArtistsJob
@@ -38,7 +40,7 @@ sbt "runMain discogs.ArtistsJob
   --output=your-project.bq-dataset.artists-bq-table"
 ```
 
-### Masters
+### Masters (~ 6 minutes)
 
 ```
 sbt "runMain discogs.MastersJob
