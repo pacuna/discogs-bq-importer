@@ -5,20 +5,20 @@ import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement(name="company")
+@XmlRootElement(name = "company")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Company {
-    @XmlElement(name="id")
+    @XmlElement(name = "id")
     private Integer id;
-    @XmlElement(name="name")
+    @XmlElement(name = "name")
     private String name;
-    @XmlElement(name="catno")
+    @XmlElement(name = "catno")
     private String catNo;
-    @XmlElement(name="entity_type")
+    @XmlElement(name = "entity_type")
     private Integer entityType;
-    @XmlElement(name="entity_type_name")
+    @XmlElement(name = "entity_type_name")
     private String entityTypeName;
-    @XmlElement(name="resource_url")
+    @XmlElement(name = "resource_url")
     private String resourceUrl;
 
     public Company() {

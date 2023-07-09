@@ -82,7 +82,7 @@ object ReleasesJob {
             name = Option(f.getName),
             qty = Option(f.getQty),
             text = Option(f.getText),
-            descriptions = if (f.getDescriptions != null) f.getDescriptions.asScala.toList else List.empty
+            descriptions = f.getDescriptions.asScala.toList,
           )
         }
 
@@ -95,24 +95,24 @@ object ReleasesJob {
         }
 
         Types.Release(
-          id = if (r.getId != null) Some(r.getId) else None,
+          id = Option(r.getId),
           status = Option(r.getStatus),
-          artists = if (artists != null) artists.toList else List.empty,
+          artists = artists.toList,
           title = Option(r.getTitle),
-          labels = if (labels != null) labels.toList else List.empty,
-          extra_artists = if (extraArtists != null) extraArtists.toList else List.empty,
-          genres = if (r.getGenres != null) r.getGenres.asScala.toList else List.empty,
-          styles = if (r.getStyles != null) r.getStyles.asScala.toList else List.empty,
+          labels = labels.toList,
+          extra_artists = extraArtists.toList,
+          genres = r.getGenres.asScala.toList,
+          styles = r.getStyles.asScala.toList,
           country = Option(r.getCountry),
           released = Option(r.getReleased),
           notes = Option(r.getNotes),
           data_quality = Option(r.getDataQuality),
           master_id = if (r.getMasterId != null) Some(r.getMasterId.getValue) else None,
           is_main_release = if (r.getMasterId != null) Some(r.getMasterId.getIsMainRelease) else None,
-          track_list = if (tracksList != null) tracksList.toList else List.empty,
-          identifiers = if (identifiers != null) identifiers.toList else List.empty,
-          formats = if (formats != null) formats.toList else List.empty,
-          companies = if (companies != null) companies.toList else List.empty
+          track_list = tracksList.toList,
+          identifiers = identifiers.toList,
+          formats = formats.toList,
+          companies = companies.toList,
         )
       }
       .saveAsTypedBigQueryTable(Table.Spec(output), writeDisposition = WRITE_TRUNCATE, createDisposition = CREATE_IF_NEEDED)

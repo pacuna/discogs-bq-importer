@@ -6,14 +6,14 @@ import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlRootElement;
 import java.util.Objects;
 
-@XmlRootElement(name="identifier")
+@XmlRootElement(name = "identifier")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Identifier {
-    @XmlAttribute(name="type")
+    @XmlAttribute(name = "type")
     private String type;
-    @XmlAttribute(name="description")
+    @XmlAttribute(name = "description")
     private String description;
-    @XmlAttribute(name="value")
+    @XmlAttribute(name = "value")
     private String value;
 
     public Identifier(String type, String description, String value) {

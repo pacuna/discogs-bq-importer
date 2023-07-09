@@ -36,7 +36,14 @@ public class Master {
     @XmlElement(name = "data_quality")
     private String dataQuality;
 
-    public Master(Integer id, Integer mainRelease, List<Artist> artists, List<String> styles, List<String> genres, String year, String title, String dataQuality) {
+    public Master(Integer id,
+                  Integer mainRelease,
+                  List<Artist> artists,
+                  List<String> styles,
+                  List<String> genres,
+                  String year,
+                  String title,
+                  String dataQuality) {
         this.id = id;
         this.mainRelease = mainRelease;
         this.artists = artists;

@@ -6,7 +6,7 @@ import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlRootElement;
 import java.util.Objects;
 
-@XmlRootElement(name="label")
+@XmlRootElement(name = "label")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Label {
     @XmlAttribute(name = "name")

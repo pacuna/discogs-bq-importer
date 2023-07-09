@@ -5,14 +5,14 @@ import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement(name="track")
+@XmlRootElement(name = "track")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Track {
-    @XmlElement(name="position")
+    @XmlElement(name = "position")
     private String position;
-    @XmlElement(name="title")
+    @XmlElement(name = "title")
     private String title;
-    @XmlElement(name="duration")
+    @XmlElement(name = "duration")
     private String duration;
 
     public Track(String position, String title, String duration) {

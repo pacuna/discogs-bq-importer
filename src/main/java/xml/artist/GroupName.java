@@ -2,10 +2,10 @@ package xml.artist;
 
 import javax.xml.bind.annotation.*;
 
-@XmlRootElement(name="name")
+@XmlRootElement(name = "name")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class GroupName {
-    @XmlAttribute(name="id")
+    @XmlAttribute(name = "id")
     private Integer id;
 
     @XmlValue

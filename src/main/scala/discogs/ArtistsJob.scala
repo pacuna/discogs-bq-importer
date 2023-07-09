@@ -46,9 +46,9 @@ object ArtistsJob {
           real_name = Option(a.getRealName),
           profile = Option(a.getProfile),
           data_quality = Option(a.getDataQuality),
-          urls = if (a.getUrls != null) a.getUrls.asScala.toList else List.empty,
-          name_variations = if (a.getNameVariations != null) a.getNameVariations.asScala.toList else List.empty,
-          group_names = if (groups != null) groups.toList else List.empty
+          urls = a.getUrls.asScala.toList,
+          name_variations = a.getNameVariations.asScala.toList,
+          group_names = groups.toList,
         )
       }
       .saveAsTypedBigQueryTable(Table.Spec(output), writeDisposition = WRITE_TRUNCATE, createDisposition = CREATE_IF_NEEDED)

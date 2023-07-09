@@ -34,7 +34,13 @@ object MastersJob {
     xmls
       .map { m =>
         val artists = m.getArtists.asScala.map { a =>
-          Types.Artist(id = Option(a.getId), name = Option(a.getName), anv = Option(a.getAnv), join = Option(a.getJoin), tracks = Option(a.getTracks))
+          Types.Artist(
+            id = Option(a.getId),
+            name = Option(a.getName),
+            anv = Option(a.getAnv),
+            join = Option(a.getJoin),
+            tracks = Option(a.getTracks)
+          )
         }
 
         Types.Master(

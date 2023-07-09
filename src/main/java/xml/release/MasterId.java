@@ -2,10 +2,10 @@ package xml.release;
 
 import javax.xml.bind.annotation.*;
 
-@XmlRootElement(name="master_id")
+@XmlRootElement(name = "master_id")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class MasterId {
-    @XmlAttribute(name="is_main_release")
+    @XmlAttribute(name = "is_main_release")
     private Boolean isMainRelease;
 
     @XmlValue

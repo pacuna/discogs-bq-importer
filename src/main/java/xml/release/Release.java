@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-@XmlRootElement(name="release")
+@XmlRootElement(name = "release")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Release {
     @XmlAttribute(name = "id")
@@ -13,66 +13,82 @@ public class Release {
     @XmlAttribute(name = "status")
     private String status;
 
-    @XmlElementWrapper(name="artists")
+    @XmlElementWrapper(name = "artists")
     @XmlElement(name = "artist")
     private List<Artist> artists = new ArrayList<>();
 
-    @XmlElement(name="title")
+    @XmlElement(name = "title")
     private String title;
 
-    @XmlElementWrapper(name="labels")
+    @XmlElementWrapper(name = "labels")
     @XmlElement(name = "label")
     private List<Label> labels = new ArrayList<>();
 
-    @XmlElementWrapper(name="extraartists")
+    @XmlElementWrapper(name = "extraartists")
     @XmlElement(name = "artist")
     private List<Artist> extraArtists = new ArrayList<>();
 
 
-    @XmlElementWrapper(name="genres")
+    @XmlElementWrapper(name = "genres")
     @XmlElement(name = "genre")
     private List<String> genres = new ArrayList<>();
 
 
-    @XmlElementWrapper(name="styles")
+    @XmlElementWrapper(name = "styles")
     @XmlElement(name = "style")
     private List<String> styles = new ArrayList<>();
 
-    @XmlElement(name="country")
+    @XmlElement(name = "country")
     private String country;
 
-    @XmlElement(name="released")
+    @XmlElement(name = "released")
     private String released;
 
-    @XmlElement(name="notes")
+    @XmlElement(name = "notes")
     private String notes;
 
-    @XmlElement(name="data_quality")
+    @XmlElement(name = "data_quality")
     private String dataQuality;
 
-    @XmlElement(name="master_id")
+    @XmlElement(name = "master_id")
     private MasterId masterId;
 
-    @XmlElementWrapper(name="tracklist")
+    @XmlElementWrapper(name = "tracklist")
     @XmlElement(name = "track")
     private List<Track> tracklist = new ArrayList<>();
 
-    @XmlElementWrapper(name="identifiers")
+    @XmlElementWrapper(name = "identifiers")
     @XmlElement(name = "identifier")
     private List<Identifier> identifiers = new ArrayList<>();
 
-    @XmlElementWrapper(name="formats")
+    @XmlElementWrapper(name = "formats")
     @XmlElement(name = "format")
     private List<Format> formats = new ArrayList<>();
 
-    @XmlElementWrapper(name="companies")
+    @XmlElementWrapper(name = "companies")
     @XmlElement(name = "company")
     private List<Company> companies = new ArrayList<>();
 
     public Release() {
     }
 
-    public Release(Integer id, String status, List<Artist> artists, String title, List<Label> labels, List<Artist> extraArtists, List<String> genres, List<String> styles, String country, String released, String notes, String dataQuality, MasterId masterId, List<Track> tracklist, List<Identifier> identifiers, List<Format> formats, List<Company> companies) {
+    public Release(Integer id,
+                   String status,
+                   List<Artist> artists,
+                   String title,
+                   List<Label> labels,
+                   List<Artist> extraArtists,
+                   List<String> genres,
+                   List<String> styles,
+                   String country,
+                   String released,
+                   String notes,
+                   String dataQuality,
+                   MasterId masterId,
+                   List<Track> tracklist,
+                   List<Identifier> identifiers,
+                   List<Format> formats,
+                   List<Company> companies) {
         this.id = id;
         this.status = status;
         this.artists = artists;

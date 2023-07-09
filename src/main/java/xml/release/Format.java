@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-@XmlRootElement(name="format")
+@XmlRootElement(name = "format")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Format {
     @XmlAttribute(name = "name")
@@ -14,7 +14,7 @@ public class Format {
     private Integer qty;
     @XmlAttribute(name = "text")
     private String text;
-    @XmlElementWrapper(name="descriptions")
+    @XmlElementWrapper(name = "descriptions")
     @XmlElement(name = "description")
     private List<String> descriptions = new ArrayList<>();
 

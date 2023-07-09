@@ -34,7 +34,14 @@ public class Artist {
     @XmlElement(name = "name")
     private List<GroupName> groupNames = new ArrayList<>();
 
-    public Artist(Integer id, String name, String realName, String profile, String dataQuality, List<String> urls, List<String> nameVariations, List<GroupName> groupNames) {
+    public Artist(Integer id,
+                  String name,
+                  String realName,
+                  String profile,
+                  String dataQuality,
+                  List<String> urls,
+                  List<String> nameVariations,
+                  List<GroupName> groupNames) {
         this.id = id;
         this.name = name;
         this.realName = realName;
