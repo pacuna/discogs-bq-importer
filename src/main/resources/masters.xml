@@ -1,0 +1,98 @@
+<masters>
+    <master id="3122454">
+        <main_release>26760392</main_release>
+        <images>
+            <image type="secondary" uri="" uri150="" width="600" height="600"/>
+        </images>
+        <artists>
+            <artist>
+                <id>12839483</id>
+                <name>Ara Solis</name>
+                <anv></anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <genres>
+            <genre>Rock</genre>
+        </genres>
+        <styles>
+            <style>Black Metal</style>
+        </styles>
+        <year>2023</year>
+        <title>Ashvattha</title>
+        <data_quality>Correct</data_quality>
+    </master>
+    <master id="3122457">
+        <main_release>27292347</main_release>
+        <images>
+            <image type="secondary" uri="" uri150="" width="356" height="364"/>
+            <image type="secondary" uri="" uri150="" width="345" height="357"/>
+            <image type="secondary" uri="" uri150="" width="600" height="577"/>
+            <image type="secondary" uri="" uri150="" width="600" height="569"/>
+        </images>
+        <artists>
+            <artist>
+                <id>3975663</id>
+                <name>Orquesta De Chino Flores</name>
+                <anv>Orquesta "Monstruo" Del Chino Flores</anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <genres>
+            <genre>Latin</genre>
+        </genres>
+        <styles>
+            <style>Danzon</style>
+        </styles>
+        <year>1966</year>
+        <title>Homenaje A Los Mejores Danzones</title>
+        <data_quality>Correct</data_quality>
+    </master>
+    <master id="3122460">
+        <main_release>22110484</main_release>
+        <images>
+            <image type="secondary" uri="" uri150="" width="600" height="593"/>
+            <image type="secondary" uri="" uri150="" width="600" height="513"/>
+            <image type="secondary" uri="" uri150="" width="600" height="569"/>
+        </images>
+        <artists>
+            <artist>
+                <id>1570136</id>
+                <name>Hunters Moon</name>
+                <anv></anv>
+                <join></join>
+                <role></role>
+                <tracks></tracks>
+            </artist>
+        </artists>
+        <genres>
+            <genre>Rock</genre>
+        </genres>
+        <styles>
+            <style>Black Metal</style>
+            <style>Thrash</style>
+        </styles>
+        <year>2021</year>
+        <title>The Great Pandemonium</title>
+        <data_quality>Correct</data_quality>
+        <videos>
+            <video src="https://www.youtube.com/watch?v=uRKZ7SZuNJ8" duration="0" embed="true">
+                <title>Hunters Moon - The Great Pandemonium (Full Album Premiere)</title>
+                <description>Country: Australia | Year: 2021 | Genre: Black/Thrash Metal
+
+                    Pre-order CD &amp; Digital Album:
+                    https://shop-hellsheadbangers.com
+                    https://huntersmoon.bandcamp.com
+
+                    - Hunters Moon -
+                    Metal Archives: https://www.metal-archives.com/bands/Hunters_Moon/83003
+
+                </description>
+            </video>
+        </videos>
+    </master>
+</masters>

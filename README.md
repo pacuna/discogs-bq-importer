@@ -10,7 +10,7 @@ Current available jobs:
 
 - [ ] Labels
 - [x] Artists
-- [ ] Masters
+- [x] Masters
 - [x] Releases
 
 To run the jobs, download the compressed XML dumps and upload them to your own gcp bucket.
@@ -34,6 +34,17 @@ sbt "runMain discogs.ArtistsJob
   --project=your-gpc-project-id
   --runner=DataflowRunner
   --region=us-central1
-  --input=gs://your-bucket/releases.xml.gz
+  --input=gs://your-bucket/artists.xml.gz
   --output=your-project.bq-dataset.artists-bq-table"
+```
+
+### Masters
+
+```
+sbt "runMain discogs.MastersJob
+  --project=your-gpc-project-id
+  --runner=DataflowRunner
+  --region=us-central1
+  --input=gs://your-bucket/masters.xml.gz
+  --output=your-project.bq-dataset.masters-bq-table"
 ```
