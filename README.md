@@ -8,7 +8,7 @@ Scio Dataflow job to load the [discogs xml dumps](https://discogs-data-dumps.s3.
 
 Current available jobs: 
 
-- [ ] Labels
+- [x] Labels
 - [x] Artists
 - [x] Masters
 - [x] Releases
