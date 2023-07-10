@@ -50,3 +50,19 @@ sbt "runMain discogs.MastersJob
   --input=gs://your-bucket/masters.xml.gz
   --output=your-project.bq-dataset.masters-bq-table"
 ```
+
+### Labels (~ 6 minutes)
+
+Because of an Apache Beam [XmlIO](https://beam.apache.org/releases/javadoc/2.3.0/org/apache/beam/sdk/io/xml/XmlIO.html) limitation regarding
+nested tags with the same outer label (`<label>`), the original labels file cannot be processed as is. There's a small
+script to convert the nested `<labels>` tags into `<sublabels>` in `src/main/java/utils/LabelRenamer.java`. Download the original final, decompress it
+and run the converter. Then compress the output file and upload it to your GCP bucket. Then use that file as the input for the job.
+
+```
+sbt "runMain discogs.MastersJob
+  --project=your-gpc-project-id
+  --runner=DataflowRunner
+  --region=us-central1
+  --input=gs://your-bucket/labels-renamed.xml.gz
+  --output=your-project.bq-dataset.labels-bq-table"
+```
